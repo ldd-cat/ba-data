@@ -1,0 +1,103 @@
+{
+  "DataList": [
+    {
+      "Id": 101140,
+      "StageEnterEchelon01_FixedEchelonId": 40100011401,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 0,
+      "StageEnterEchelon02_Starttile": 0,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 102010,
+      "StageEnterEchelon01_FixedEchelonId": 0,
+      "StageEnterEchelon01_Starttile": 0,
+      "StageEnterEchelon02_FixedEchelonId": 0,
+      "StageEnterEchelon02_Starttile": 0,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 102060,
+      "StageEnterEchelon01_FixedEchelonId": 40100020601,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 40100020602,
+      "StageEnterEchelon02_Starttile": 101103,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 102090,
+      "StageEnterEchelon01_FixedEchelonId": 40100020901,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 40100020904,
+      "StageEnterEchelon02_Starttile": 101103,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 102120,
+      "StageEnterEchelon01_FixedEchelonId": 40100021201,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 40100021203,
+      "StageEnterEchelon02_Starttile": 101103,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 102150,
+      "StageEnterEchelon01_FixedEchelonId": 40100021501,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 40100021502,
+      "StageEnterEchelon02_Starttile": 101103,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 102170,
+      "StageEnterEchelon01_FixedEchelonId": 40100021701,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 40100021702,
+      "StageEnterEchelon02_Starttile": 101103,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 102200,
+      "StageEnterEchelon01_FixedEchelonId": 40100022001,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 40100022002,
+      "StageEnterEchelon02_Starttile": 101103,
+      "StageEnterEchelon03_FixedEchelonId": 0,
+      "StageEnterEchelon03_Starttile": 0,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    },
+    {
+      "Id": 103140,
+      "StageEnterEchelon01_FixedEchelonId": 40100031401,
+      "StageEnterEchelon01_Starttile": 101102,
+      "StageEnterEchelon02_FixedEchelonId": 40100031402,
+      "StageEnterEchelon02_Starttile": 101103,
+      "StageEnterEchelon03_FixedEchelonId": 40100031403,
+      "StageEnterEchelon03_Starttile": 101104,
+      "StageEnterEchelon04_FixedEchelonId": 0,
+      "StageEnterEchelon04_Starttile": 0
+    }
+  ]
+}

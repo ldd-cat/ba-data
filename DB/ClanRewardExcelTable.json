@@ -1,0 +1,11 @@
+{
+  "DataList": [
+    {
+      "ClanRewardType": "Attendance",
+      "EchelonType": "None",
+      "RewardParcelType": "Currency",
+      "RewardParcelId": 5,
+      "RewardParcelAmount": 10
+    }
+  ]
+}

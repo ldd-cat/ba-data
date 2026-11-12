@@ -1,0 +1,56 @@
+{
+  "DataList": [
+    {
+      "GroupId": 10,
+      "SelectionGroup": 0,
+      "BGMId": 999,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 410001699,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#na;이펙트 확인",
+      "TextJp": "",
+      "VoiceId": ""
+    },
+    {
+      "GroupId": 10,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 815023049,
+      "PopupFileName": "",
+      "ScriptKr": "3;세리카;12;눈감음",
+      "TextJp": "",
+      "VoiceId": ""
+    },
+    {
+      "GroupId": 10,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 0,
+      "BGEffect": 617044145,
+      "PopupFileName": "",
+      "ScriptKr": "3;세리카;12;간식비",
+      "TextJp": "",
+      "VoiceId": ""
+    },
+    {
+      "GroupId": 10,
+      "SelectionGroup": 0,
+      "BGMId": 0,
+      "Sound": "",
+      "Transition": 0,
+      "BGName": 1013039750,
+      "BGEffect": 0,
+      "PopupFileName": "",
+      "ScriptKr": "#na;아로나;테스트 종료",
+      "TextJp": "",
+      "VoiceId": ""
+    }
+  ]
+}

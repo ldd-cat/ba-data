@@ -1,0 +1,12 @@
+{
+  "DataList": [
+    {
+      "NewbieGachaReleaseDate": "2025-08-14 14:00:00",
+      "NewbieGachaCheckDays": 28,
+      "NewbieGachaTokenGraceTime": 876000,
+      "NewbieAttendanceReleaseDate": "2024-02-08 14:00:00",
+      "NewbieAttendanceStartableEndDay": 28,
+      "NewbieAttendanceEndDay": 20
+    }
+  ]
+}
