@@ -4816,8 +4816,8 @@
     {
       "CharacterId": 20050,
       "IgnoreIfUnobtained": true,
-      "IgnoreIfUnobtainedStartDate": "2025-09-23 11:00:00",
-      "IgnoreIfUnobtainedEndDate": "2025-10-08 10:59:59",
+      "IgnoreIfUnobtainedStartDate": "2026-11-26 14:00:00",
+      "IgnoreIfUnobtainedEndDate": "2026-12-10 13:59:59",
       "BubbleType": [
         "EmoticonNormal",
         "EmoticonFavorite",

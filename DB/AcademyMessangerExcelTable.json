@@ -52433,6 +52433,102 @@
       "MessageJP": ""
     },
     {
+      "MessageGroupId": 130110310,
+      "Id": 130110480,
+      "CharacterId": 13011,
+      "MessageCondition": "FavorRankUp",
+      "ConditionValue": 15,
+      "PreConditionGroupId": 130110300,
+      "PreConditionFavorScheduleId": 130116,
+      "FavorScheduleId": 0,
+      "NextGroupId": 130110320,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "猎人哟！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 130110320,
+      "Id": 130110490,
+      "CharacterId": 13011,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 130110330,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "还记得吗！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 130110330,
+      "Id": 130110500,
+      "CharacterId": 13011,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 130110340,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "当然记得，搭档……",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 130110330,
+      "Id": 130110510,
+      "CharacterId": 13011,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 130110340,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "时机已到，开始我们的狩猎吧……",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 130110340,
+      "Id": 130110520,
+      "CharacterId": 13011,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 130110350,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "好！这样就对了！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 130110350,
+      "Id": 130110530,
+      "CharacterId": 13011,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 1301115,
+      "NextGroupId": 0,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "今天就来好好大战一场吧！",
+      "MessageJP": ""
+    },
+    {
       "MessageGroupId": 100160010,
       "Id": 100160010,
       "CharacterId": 10016,
@@ -126513,6 +126609,342 @@
       "MessageJP": ""
     },
     {
+      "MessageGroupId": 100630610,
+      "Id": 100630890,
+      "CharacterId": 10063,
+      "MessageCondition": "FavorRankUp",
+      "ConditionValue": 15,
+      "PreConditionGroupId": 100630600,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630620,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "老师",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630620,
+      "Id": 100630900,
+      "CharacterId": 10063,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630630,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "再帮我一个忙吧",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630620,
+      "Id": 100630910,
+      "CharacterId": 10063,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630630,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "用您那惊人的搜索能力……！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630630,
+      "Id": 100630920,
+      "CharacterId": 10063,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630640,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "这次要找什么？",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630640,
+      "Id": 100630930,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630650,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "那个",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630640,
+      "Id": 100630940,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 1006315,
+      "NextGroupId": 100630650,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "其实是我丢了个东西……",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630650,
+      "Id": 100630950,
+      "CharacterId": 10063,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 100630640,
+      "PreConditionFavorScheduleId": 1006315,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630660,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "噫啊啊啊",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630660,
+      "Id": 100630960,
+      "CharacterId": 10063,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630670,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "这里的氛围好奇怪！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630670,
+      "Id": 100630970,
+      "CharacterId": 10063,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630680,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "告诉我",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630670,
+      "Id": 100630980,
+      "CharacterId": 10063,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630680,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "为什么要",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630670,
+      "Id": 100630990,
+      "CharacterId": 10063,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630680,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "这样对我",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630680,
+      "Id": 100631000,
+      "CharacterId": 10063,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630690,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "上完课以后一起去游戏厅吧",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630690,
+      "Id": 100631010,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630700,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "我才不要呢！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630700,
+      "Id": 100631020,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630710,
+      "FeedbackTimeMillisec": 1500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "不对，也不是不想啦",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630710,
+      "Id": 100631030,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630720,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "但就是不要！！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630720,
+      "Id": 100631040,
+      "CharacterId": 10063,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630730,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "我请客",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630730,
+      "Id": 100631050,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630740,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "……",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630730,
+      "Id": 100631060,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630740,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "……您不会反悔吧？",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630740,
+      "Id": 100631070,
+      "CharacterId": 10063,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100630750,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "……感觉已经有一点了",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630750,
+      "Id": 100631080,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 0,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "嘿嘿……",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100630750,
+      "Id": 100631090,
+      "CharacterId": 10063,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 0,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "那一小时后见！",
+      "MessageJP": ""
+    },
+    {
       "MessageGroupId": 100640010,
       "Id": 100640010,
       "CharacterId": 10064,
@@ -144958,6 +145390,150 @@
       "MessageType": "Text",
       "ImagePath": "",
       "MessageKR": "就让您见识一下，美食研究会的精髓吧",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300340,
+      "Id": 200300450,
+      "CharacterId": 20030,
+      "MessageCondition": "FavorRankUp",
+      "ConditionValue": 15,
+      "PreConditionGroupId": 200300330,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300350,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "会场的气氛相当火热呢",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300350,
+      "Id": 200300460,
+      "CharacterId": 20030,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300360,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "老师想必也很忙碌吧",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300360,
+      "Id": 200300470,
+      "CharacterId": 20030,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300370,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "重要的事基本都做完了",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300370,
+      "Id": 200300480,
+      "CharacterId": 20030,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300380,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "这样呀",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300370,
+      "Id": 200300490,
+      "CharacterId": 20030,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300380,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "那您现在有时间吗",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300380,
+      "Id": 200300500,
+      "CharacterId": 20030,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300390,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "要不要抽空见个面？",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300390,
+      "Id": 200300510,
+      "CharacterId": 20030,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300400,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "哎呀",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300390,
+      "Id": 200300520,
+      "CharacterId": 20030,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 200300400,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "没想到老师会主动约我",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 200300400,
+      "Id": 200300530,
+      "CharacterId": 20030,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 2003015,
+      "NextGroupId": 0,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "那我就等着您了",
       "MessageJP": ""
     },
     {
@@ -163614,6 +164190,230 @@
       "MessageType": "Text",
       "ImagePath": "",
       "MessageKR": "嗯，百夜堂见吧",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900330,
+      "Id": 100900420,
+      "CharacterId": 10090,
+      "MessageCondition": "FavorRankUp",
+      "ConditionValue": 15,
+      "PreConditionGroupId": 100900320,
+      "PreConditionFavorScheduleId": 100906,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900340,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "老师？",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900340,
+      "Id": 100900430,
+      "CharacterId": 10090,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900350,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "您在吗……？",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900350,
+      "Id": 100900440,
+      "CharacterId": 10090,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900360,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "在！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900350,
+      "Id": 100900450,
+      "CharacterId": 10090,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900360,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "你现在在哪？",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900360,
+      "Id": 100900460,
+      "CharacterId": 10090,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900370,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "不好意思！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900360,
+      "Id": 100900470,
+      "CharacterId": 10090,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900370,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "我可能会晚一点……",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900370,
+      "Id": 100900480,
+      "CharacterId": 10090,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900380,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "没关系，慢慢来就好~",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900380,
+      "Id": 100900490,
+      "CharacterId": 10090,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 1009015,
+      "NextGroupId": 100900390,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "我马上赶过去！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900390,
+      "Id": 100900500,
+      "CharacterId": 10090,
+      "MessageCondition": "None",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 100900380,
+      "PreConditionFavorScheduleId": 1009015,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900400,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "老师，您辛苦了",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900400,
+      "Id": 100900510,
+      "CharacterId": 10090,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900410,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "海香今天也辛苦了",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900410,
+      "Id": 100900520,
+      "CharacterId": 10090,
+      "MessageCondition": "Answer",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900420,
+      "FeedbackTimeMillisec": 0,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "还有，谢谢你的人偶",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900420,
+      "Id": 100900530,
+      "CharacterId": 10090,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900430,
+      "FeedbackTimeMillisec": 1500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "……！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900420,
+      "Id": 100900540,
+      "CharacterId": 10090,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 100900430,
+      "FeedbackTimeMillisec": 500,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "嗯！",
+      "MessageJP": ""
+    },
+    {
+      "MessageGroupId": 100900430,
+      "Id": 100900550,
+      "CharacterId": 10090,
+      "MessageCondition": "Feedback",
+      "ConditionValue": 0,
+      "PreConditionGroupId": 0,
+      "PreConditionFavorScheduleId": 0,
+      "FavorScheduleId": 0,
+      "NextGroupId": 0,
+      "FeedbackTimeMillisec": 1000,
+      "MessageType": "Text",
+      "ImagePath": "",
+      "MessageKR": "也谢谢您！！！",
       "MessageJP": ""
     },
     {
@@ -220845,7 +221645,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "안녕하세요, 선생님. 사쿠라이 미요입니다.",
+      "MessageKR": "老师您好，我是樱井美代",
       "MessageJP": ""
     },
     {
@@ -220861,7 +221661,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "내일 제 당번 방문일인데……",
+      "MessageKR": "明天我就要担任值日员去拜访您了……",
       "MessageJP": ""
     },
     {
@@ -220877,7 +221677,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "혹 불편하시다면, 내일 방문은 취소하도록 하겠습니다.",
+      "MessageKR": "如果有不方便的地方，我可以取消明天的拜访",
       "MessageJP": ""
     },
     {
@@ -220893,7 +221693,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "메시지 확인 후 회신 부탁드립니다.",
+      "MessageKR": "请在看到消息后回复我",
       "MessageJP": ""
     },
     {
@@ -220909,7 +221709,7 @@
       "FeedbackTimeMillisec": 1500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "……예, 알겠습니다.",
+      "MessageKR": "……好的，知道了",
       "MessageJP": ""
     },
     {
@@ -220925,7 +221725,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "인지하였습니다. 그럼 다음에 뵙겠습니다, 선생님.",
+      "MessageKR": "我明白了，那下次再见吧，老师",
       "MessageJP": ""
     },
     {
@@ -220941,7 +221741,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "아냐! 취소하지 마! ",
+      "MessageKR": "别啊！不要取消！",
       "MessageJP": ""
     },
     {
@@ -220957,7 +221757,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "너무너무 보고 싶어! 미요 쨩! ",
+      "MessageKR": "非常非常想见到你啊！小美代！",
       "MessageJP": ""
     },
     {
@@ -220973,7 +221773,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "흐에에……!",
+      "MessageKR": "呜呜呜……！",
       "MessageJP": ""
     },
     {
@@ -220989,7 +221789,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "멋대로 뛰쳐나간 것, 사과드립니다, 선생님. ",
+      "MessageKR": "对不起老师，我擅自逃跑了",
       "MessageJP": ""
     },
     {
@@ -221005,7 +221805,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "괜찮아, 글 쓰다 보면 그럴 수 있지.",
+      "MessageKR": "没关系，写作的时候遇到这种情况也是难免的",
       "MessageJP": ""
     },
     {
@@ -221021,7 +221821,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "이해해 주셔서 감사합니다…….",
+      "MessageKR": "感谢您的理解……",
       "MessageJP": ""
     },
     {
@@ -221037,7 +221837,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "그런데 그래서 누가 이기는 거야?",
+      "MessageKR": "所以最后是谁赢了？",
       "MessageJP": ""
     },
     {
@@ -221053,7 +221853,7 @@
       "FeedbackTimeMillisec": 500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "으아아아아아아아아아아아아아아아아아아아아아아아아아아아아",
+      "MessageKR": "呃啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊",
       "MessageJP": ""
     },
     {
@@ -221069,7 +221869,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "스케쥴 검토 결과",
+      "MessageKR": "日程安排的话",
       "MessageJP": ""
     },
     {
@@ -221085,7 +221885,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "오후 2시가 가장 적절할 것 같습니다.",
+      "MessageKR": "下午2点可能比较合适",
       "MessageJP": ""
     },
     {
@@ -221101,7 +221901,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "응……?",
+      "MessageKR": "嗯……？",
       "MessageJP": ""
     },
     {
@@ -221117,7 +221917,7 @@
       "FeedbackTimeMillisec": 500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "아 ",
+      "MessageKR": "啊",
       "MessageJP": ""
     },
     {
@@ -221133,7 +221933,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "잘못 보냈다",
+      "MessageKR": "发错了",
       "MessageJP": ""
     },
     {
@@ -221149,7 +221949,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "죄송합니다. 잊어 주세요.",
+      "MessageKR": "抱歉，您就当没看到吧",
       "MessageJP": ""
     },
     {
@@ -221165,7 +221965,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님",
+      "MessageKR": "老师",
       "MessageJP": ""
     },
     {
@@ -221181,7 +221981,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "혹시 시간 있으신가요?",
+      "MessageKR": "您有空吗？",
       "MessageJP": ""
     },
     {
@@ -221197,7 +221997,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "없더라도 내겠습니다……!",
+      "MessageKR": "就算没有，我也会空出时间的……！",
       "MessageJP": ""
     },
     {
@@ -221213,7 +222013,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "그러니 목숨만은……!",
+      "MessageKR": "所以请饶我一命……！",
       "MessageJP": ""
     },
     {
@@ -221229,7 +222029,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "……대체 선생님 머릿속에서 저는 어떤 이미지인 거죠?",
+      "MessageKR": "……我在老师的印象里，到底是什么样的形象啊？",
       "MessageJP": ""
     },
     {
@@ -221245,7 +222045,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "죄송합니다 선생님……",
+      "MessageKR": "抱歉，老师……",
       "MessageJP": ""
     },
     {
@@ -221261,7 +222061,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "뭔가 제멋대로 선생님을 끌고 다닌 것 같아서……",
+      "MessageKR": "拖着老师逛来逛去……",
       "MessageJP": ""
     },
     {
@@ -221277,7 +222077,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "아냐, 나도 즐거웠어.",
+      "MessageKR": "没事，我也很开心",
       "MessageJP": ""
     },
     {
@@ -221293,7 +222093,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "감사합니다.",
+      "MessageKR": "谢谢您",
       "MessageJP": ""
     },
     {
@@ -221309,7 +222109,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "그러면 그",
+      "MessageKR": "那么，那个",
       "MessageJP": ""
     },
     {
@@ -221325,7 +222125,7 @@
       "FeedbackTimeMillisec": 1500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "다음에도……",
+      "MessageKR": "下次也……",
       "MessageJP": ""
     },
     {
@@ -221341,7 +222141,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "안녕하세요 선생님.",
+      "MessageKR": "您好，老师",
       "MessageJP": ""
     },
     {
@@ -221357,7 +222157,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "요즘 와일드헌트에 자주 오셨다고 들었습니다.",
+      "MessageKR": "听说您最近经常来狂猎",
       "MessageJP": ""
     },
     {
@@ -221373,7 +222173,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "응, 예술품들의 거래 및 통관과 관련해서",
+      "MessageKR": "嗯，艺术品交易啊，还有清关方面",
       "MessageJP": ""
     },
     {
@@ -221389,7 +222189,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "중간에서 처리해야 할 행정 업무가 많았거든.",
+      "MessageKR": "其中有很多要处理的行政工作",
       "MessageJP": ""
     },
     {
@@ -221405,7 +222205,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "흐으음……",
+      "MessageKR": "唔唔……",
       "MessageJP": ""
     },
     {
@@ -221421,7 +222221,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "응?",
+      "MessageKR": "嗯？",
       "MessageJP": ""
     },
     {
@@ -221437,7 +222237,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "오늘 방문하셨던 그 건물",
+      "MessageKR": "您今天去的那栋楼",
       "MessageJP": ""
     },
     {
@@ -221453,7 +222253,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "보라색 조각상 앞에서 좌회전하면",
+      "MessageKR": "如果在紫色雕像前面左转",
       "MessageJP": ""
     },
     {
@@ -221469,7 +222269,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "더 빨리 도착하실 수 있어요",
+      "MessageKR": "可以节省不少路程",
       "MessageJP": ""
     },
     {
@@ -221485,7 +222285,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "어, 응, 고마워 미요.",
+      "MessageKR": "哦，好的，谢谢美代",
       "MessageJP": ""
     },
     {
@@ -221501,7 +222301,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "……그런데 제 이동 경로를",
+      "MessageKR": "……不过",
       "MessageJP": ""
     },
     {
@@ -221517,7 +222317,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "왜 다 파악하고 계신 거죠……?",
+      "MessageKR": "你怎么这么清楚我的行动路线……？",
       "MessageJP": ""
     },
     {
@@ -221533,7 +222333,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "저기 미요? 미요 쨩……?",
+      "MessageKR": "那个，美代？小美代……？",
       "MessageJP": ""
     },
     {
@@ -221549,7 +222349,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "오랜만입니다, 선생님.",
+      "MessageKR": "好久不见，老师",
       "MessageJP": ""
     },
     {
@@ -221565,7 +222365,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "명일 외출이 예정되어 있는데, ",
+      "MessageKR": "我明天有外出的计划",
       "MessageJP": ""
     },
     {
@@ -221581,7 +222381,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "혹 필요하신 물건이 있다면 주문받겠습니다.",
+      "MessageKR": "有什么需要的东西，我都可以接单哦",
       "MessageJP": ""
     },
     {
@@ -221597,7 +222397,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "……아냐 괜찮아.",
+      "MessageKR": "……没事，不用了",
       "MessageJP": ""
     },
     {
@@ -221613,7 +222413,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "후후, 그럼 다음에 다시 여쭤보겠습니다.",
+      "MessageKR": "呵呵，那我下次再问您",
       "MessageJP": ""
     },
     {
@@ -221629,7 +222429,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "다음에도 저희 특수교역부를 이용해 주세요!",
+      "MessageKR": "特殊交易部期待您的下次光顾！",
       "MessageJP": ""
     },
     {
@@ -221645,7 +222445,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "애초에 이용한 적이 없는데요……!",
+      "MessageKR": "我压根没光顾过吧……！",
       "MessageJP": ""
     },
     {
@@ -221661,7 +222461,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님",
+      "MessageKR": "老师",
       "MessageJP": ""
     },
     {
@@ -221677,7 +222477,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "투석기는 어째서 이토록 잘 망가지는 것일까요?",
+      "MessageKR": "投石机为什么这么容易坏啊？",
       "MessageJP": ""
     },
     {
@@ -221693,7 +222493,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "공성전이라도 벌이고 있니……?",
+      "MessageKR": "你在打攻城战吗……？",
       "MessageJP": ""
     },
     {
@@ -221709,7 +222509,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "아뇨, 좀 더 멋진 것을 하고 있습니다. ",
+      "MessageKR": "没有，我在做更厉害的事",
       "MessageJP": ""
     },
     {
@@ -221725,7 +222525,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "……특수교역의 용도로 쓰고 있었구나.",
+      "MessageKR": "……是做特殊交易的时候用的啊",
       "MessageJP": ""
     },
     {
@@ -221741,7 +222541,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "역시 선생님! 잘 알고 계시군요!",
+      "MessageKR": "不愧是老师！很了解嘛！",
       "MessageJP": ""
     },
     {
@@ -221757,7 +222557,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "잘 지내셨습니까, 선생님.",
+      "MessageKR": "您过得还好吗，老师",
       "MessageJP": ""
     },
     {
@@ -221773,7 +222573,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "이번 주에 당번으로 뵙게 될 텐데",
+      "MessageKR": "这周，我会作为值日员去拜访您",
       "MessageJP": ""
     },
     {
@@ -221789,7 +222589,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "미리 인사드리겠습니다!",
+      "MessageKR": "提前来跟您打声招呼！",
       "MessageJP": ""
     },
     {
@@ -221805,7 +222605,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "……너 이번 주에 당번 일정 없지 않니?",
+      "MessageKR": "……这周不是你来值日吧？",
       "MessageJP": ""
     },
     {
@@ -221821,7 +222621,7 @@
       "FeedbackTimeMillisec": 500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "후후",
+      "MessageKR": "呵呵",
       "MessageJP": ""
     },
     {
@@ -221837,7 +222637,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "뭔데……!",
+      "MessageKR": "啥意思……！",
       "MessageJP": ""
     },
     {
@@ -221853,7 +222653,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님",
+      "MessageKR": "老师",
       "MessageJP": ""
     },
     {
@@ -221869,7 +222669,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "전시회 가실래요?",
+      "MessageKR": "要不要去展览会呀？",
       "MessageJP": ""
     },
     {
@@ -221885,7 +222685,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "응?",
+      "MessageKR": "嗯？",
       "MessageJP": ""
     },
     {
@@ -221901,7 +222701,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "세인트&메디컬 부속 아트 센터 A관입니다!",
+      "MessageKR": "就在圣&医学附属艺术中心A馆！",
       "MessageJP": ""
     },
     {
@@ -221917,7 +222717,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "갑자기?!",
+      "MessageKR": "也太突然了吧？！",
       "MessageJP": ""
     },
     {
@@ -221933,7 +222733,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "안녕 선생님!",
+      "MessageKR": "你好呀，老师！",
       "MessageJP": ""
     },
     {
@@ -221949,7 +222749,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "우스바 리츠입니다!",
+      "MessageKR": "我是薄叶律！",
       "MessageJP": ""
     },
     {
@@ -221965,7 +222765,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "맞아, 리츠가 내일 당번이었지?",
+      "MessageKR": "对哦，明天是律值日吧？",
       "MessageJP": ""
     },
     {
@@ -221981,7 +222781,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "맞습니다!",
+      "MessageKR": "没错！",
       "MessageJP": ""
     },
     {
@@ -221997,7 +222797,7 @@
       "FeedbackTimeMillisec": 500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "내일 봐! 선생님!",
+      "MessageKR": "明天见！老师！",
       "MessageJP": ""
     },
     {
@@ -222013,7 +222813,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님선생님선생님",
+      "MessageKR": "老师老师老师",
       "MessageJP": ""
     },
     {
@@ -222029,7 +222829,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님은 무슨 색을 좋아해?",
+      "MessageKR": "老师喜欢什么颜色呀？",
       "MessageJP": ""
     },
     {
@@ -222045,7 +222845,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "무엇의 색인지에 따라 다르지……?",
+      "MessageKR": "得看是什么东西的颜色吧……？",
       "MessageJP": ""
     },
     {
@@ -222061,7 +222861,7 @@
       "FeedbackTimeMillisec": 500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "아항!",
+      "MessageKR": "啊哈！",
       "MessageJP": ""
     },
     {
@@ -222077,7 +222877,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "그럼 그냥 이쪽에서 정해야겠다!",
+      "MessageKR": "那就由我来决定吧！",
       "MessageJP": ""
     },
     {
@@ -222093,7 +222893,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "예? 뭘요?",
+      "MessageKR": "啊？决定什么？",
       "MessageJP": ""
     },
     {
@@ -222109,7 +222909,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "리츠?",
+      "MessageKR": "律？",
       "MessageJP": ""
     },
     {
@@ -222125,7 +222925,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "나 이제 샬레 앞!",
+      "MessageKR": "我现在在沙勒门口！",
       "MessageJP": ""
     },
     {
@@ -222141,7 +222941,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님은 뭐 해?",
+      "MessageKR": "老师在干嘛？",
       "MessageJP": ""
     },
     {
@@ -222157,7 +222957,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "갑자기?!",
+      "MessageKR": "突然怎么了这是？！",
       "MessageJP": ""
     },
     {
@@ -222173,7 +222973,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "저번에 같이 옷 사러 가자고 했었잖아!",
+      "MessageKR": "上次不是说要一起去买衣服嘛！",
       "MessageJP": ""
     },
     {
@@ -222189,7 +222989,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "혹시 바빠, 선생님?",
+      "MessageKR": "老师很忙吗？",
       "MessageJP": ""
     },
     {
@@ -222205,7 +223005,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "당연히 바쁘지.",
+      "MessageKR": "是很忙啊",
       "MessageJP": ""
     },
     {
@@ -222221,7 +223021,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "당장 가자.",
+      "MessageKR": "所以要立刻出发",
       "MessageJP": ""
     },
     {
@@ -222237,7 +223037,7 @@
       "FeedbackTimeMillisec": 500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "엥?",
+      "MessageKR": "诶？",
       "MessageJP": ""
     },
     {
@@ -222253,7 +223053,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "그래서 말인데 선생님",
+      "MessageKR": "那个，老师",
       "MessageJP": ""
     },
     {
@@ -222269,7 +223069,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "나 진짜 이상한 곳을 발견했어!",
+      "MessageKR": "我发现了一个非常奇怪的地方！",
       "MessageJP": ""
     },
     {
@@ -222285,7 +223085,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "이상한 곳……?",
+      "MessageKR": "奇怪的地方……？",
       "MessageJP": ""
     },
     {
@@ -222301,7 +223101,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "응! 와일드헌트로 올 수 있어?",
+      "MessageKR": "嗯！你能来一趟狂猎吗？",
       "MessageJP": ""
     },
     {
@@ -222317,7 +223117,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님한테 꼭 보여주고 싶은 곳이 있어!",
+      "MessageKR": "有个地方我一定要让老师看一看！",
       "MessageJP": ""
     },
     {
@@ -222333,7 +223133,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "슬프게도 선생님",
+      "MessageKR": "很遗憾，老师",
       "MessageJP": ""
     },
     {
@@ -222349,7 +223149,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "이곳은 밀수 통로로는 못 쓸 것 같아.",
+      "MessageKR": "那里好像不能当作走私用的密道",
       "MessageJP": ""
     },
     {
@@ -222365,7 +223165,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "교내로 연결되는 루트가 없더라고.",
+      "MessageKR": "因为没有能通到学院内的路线",
       "MessageJP": ""
     },
     {
@@ -222381,7 +223181,7 @@
       "FeedbackTimeMillisec": 0,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "앗…….",
+      "MessageKR": "啊……",
       "MessageJP": ""
     },
     {
@@ -222397,7 +223197,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "그래도 괜찮아!",
+      "MessageKR": "不过没关系！",
       "MessageJP": ""
     },
     {
@@ -222413,7 +223213,7 @@
       "FeedbackTimeMillisec": 1500,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "선생님하고 둘만 아는 비밀 기지가 생긴 거니까!",
+      "MessageKR": "这样就变成只属于我和老师两人的秘密基地了！",
       "MessageJP": ""
     },
     {
@@ -222429,7 +223229,7 @@
       "FeedbackTimeMillisec": 1000,
       "MessageType": "Text",
       "ImagePath": "",
-      "MessageKR": "다음에 또 같이 가자!",
+      "MessageKR": "下次也一起去吧！",
       "MessageJP": ""
     },
     {

@@ -682,9 +682,29 @@
     {
       "Id": 85,
       "DisplayOrder": 56,
-      "NotificationId": 14,
+      "NotificationId": 0,
       "ResultParcel": "Item",
       "ResultId": 191021,
+      "ResultAmount": 1,
+      "RequireItemId": 83,
+      "RequireItemAmount": 1,
+      "RequireGold": 24000,
+      "AdditionalCostParcelType": "None",
+      "AdditionalCostParcelId": 0,
+      "AdditionalCostParcelAmount": 0,
+      "IngredientTag": [
+        "ShiftingCraftMaterial_Furniture",
+        "CraftItem"
+      ],
+      "IngredientExp": 200,
+      "RecipeDisplayOptions": "None"
+    },
+    {
+      "Id": 87,
+      "DisplayOrder": 55,
+      "NotificationId": 15,
+      "ResultParcel": "Item",
+      "ResultId": 191022,
       "ResultAmount": 1,
       "RequireItemId": 83,
       "RequireItemAmount": 1,
@@ -1442,9 +1462,29 @@
     {
       "Id": 86,
       "DisplayOrder": 16,
-      "NotificationId": 14,
+      "NotificationId": 0,
       "ResultParcel": "Item",
       "ResultId": 151021,
+      "ResultAmount": 1,
+      "RequireItemId": 83,
+      "RequireItemAmount": 3,
+      "RequireGold": 24000,
+      "AdditionalCostParcelType": "None",
+      "AdditionalCostParcelId": 0,
+      "AdditionalCostParcelAmount": 0,
+      "IngredientTag": [
+        "ShiftingCraftMaterial_Furniture",
+        "CraftItem"
+      ],
+      "IngredientExp": 400,
+      "RecipeDisplayOptions": "None"
+    },
+    {
+      "Id": 88,
+      "DisplayOrder": 15,
+      "NotificationId": 15,
+      "ResultParcel": "Item",
+      "ResultId": 151022,
       "ResultAmount": 1,
       "RequireItemId": 83,
       "RequireItemAmount": 3,

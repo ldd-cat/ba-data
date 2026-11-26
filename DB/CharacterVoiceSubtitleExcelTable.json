@@ -58760,6 +58760,762 @@
       "Localize_KR": "反正老师把我变成这样，\n也不会负责一辈子吧。\n嗯？你说什么都愿意做？\n你知道自己刚才说了什么吗？！",
       "Localize_JP": "",
       "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "居，居然对我这么好……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "好想继续待在这里……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "没，没用哦……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "要不再想想呢……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "既然这样，那就没办法了……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "一，一起走吧！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "到底还有多远啊……？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "谢，谢谢您……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "嘿咻……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "这样算是圆满结束了……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "大家辛苦了……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "啊——！嘿嘿……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "我其实并不想写这样的故事……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "我讨厌这种创作……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "这是最后一次了……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "总算是……完成了……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "写完了，第一稿……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "赶上截稿日了……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "一，一定要这么做吗……？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "打架可不是明智的手段……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "只有我们两个人吗？\n……嗯，可以哦。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "这，这是哪里弄来的……？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "这个，是合法的吧……？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "为了达成圆满的结局，\n有时的确需要一些韧劲和力量。\n谢谢您，老师。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "多亏了您，我好像也能……\n更喜欢自己一点了。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "不，不用为我做到这个地步的……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "请问……我可以把老师的名字写进我的小说里吗？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "那个……嗯……老师，我想你了。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "和老师在一起的时候，\n就好像身在幸福的小说中一样。\n……好希望这本小说能永不完结。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "我能不能只负责写作的部分啊……？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "到底为什么要进行这种毫无意义的争斗呢……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "赢了……呢。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10127,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "倒是……按计划完成行动了……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Buffed_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "这笔账我会还的……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Covered_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "可算藏好了……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Defense_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "呵，呵呵，就这点本，本事……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "好啦，我们去拿下胜利吧？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_In_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "补给的事不必担心。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "好，我们走吧！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Move_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "大家放松点~",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Recovery_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "谢谢这位客人……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_TacticalAction_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "呵呃！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "真是笔利落的交易。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Battle_Victory_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "之后拜托给个好评哟。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "呵呵，要看一眼货吗？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "嘘——刚才看到的要保密哦。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "怎么样？帅吧？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "好啦，现在静悄悄地撤离吧！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "弹药配送完成啦！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "快速精准击破！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "配送地点是敌营！订单已完成！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "嗯，这个选择不会让您后悔。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "所以我们这次要弄到手的是……“胜利”吗？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "呵呵……呜哇！呼……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "哦哦，这是哪里弄来的……！\n谢谢您，老师！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "嗯？这些都用来投资……！不会让您失望的！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "怎么对我这么好……？\n……您有什么想要的商品吗？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "谢谢您，老师。\n我一定会报答您这份慷慨的投资……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "媒体，还有艺术……想听听我的故事吗？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "好奇怪。只要和老师聊天，我的话就会莫名其妙多起来。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "请问，您喜欢看电影吗？\n啊不，不是，我就是想聊聊艺术……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "为什么呢，明明想看就能看到了，\n却偏偏还想留在身边……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "呵呵，看来是蓝海啊。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_In_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "需要什么商品来取得胜利呢……",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_1",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "呵呵，这样的结果如我所料。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Tactic_Victory_2",
+      "CharacterVoiceGroupId": 10128,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "名为“胜利”的商品已送达。",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_CommonSkill",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "嘿呀！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_1",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "哼哼~我这边正好到手了个好东西！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_2",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "我可是弄来了很厉害的东西哦！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_3",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "明明就放在这里呀！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_1",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "来，吃了这个，打起精神吧！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_2",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "可不能累趴下！加油！加油！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_ExSkill_Level_3",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "不可以在这里倒下哦！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_1",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "什么，什么？在玩什么呢？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_In_2",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "感觉很有意思呀……！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Formation_Select",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "哼，哼~啊，是老师！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_1",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "真的吗，真的吗？真的要给我吗？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_2",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "现在好像连更大的石头都能搬得动了！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_3",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "嘿嘿~谢谢，老师！\n我会更加更加更加努力的！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Growup_4",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "老师，你看！我已经变得这么强了！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_1",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "那个那个，我可以试着雕一下老师的脸吗？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_2",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "嘿~原来老师皮肤摸起来是这种感觉呀……\n我好像知道要怎么雕了！",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_3",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "你知道吗，老师？\n最近我脑海中浮现的创作对象，\n就只有一个人哦？",
+      "Localize_JP": "",
+      "Duration_CN": 0
+    },
+    {
+      "LocalizeCVGroup": "CVGroup_Relationship_Up_4",
+      "CharacterVoiceGroupId": 20050,
+      "Duration": 0,
+      "Separate": false,
+      "Localize_KR": "好奇怪啊~\n为什么一看到老师，我的胸口就会有些难受呢？",
+      "Localize_JP": "",
+      "Duration_CN": 0
     }
   ]
 }

@@ -612,7 +612,7 @@
       "Id": 42,
       "StartDate": "2026-12-10 14:00:00",
       "EndNoteLabelStartDate": "2026-12-13 04:00:00",
-      "EndDate": "2026-12-17 03:59:59 ",
+      "EndDate": "2026-12-17 03:59:59",
       "UISlot": 1,
       "DungeonId": 1000,
       "DifficultyGeas": [
@@ -620,6 +620,22 @@
         39101,
         39201,
         39301
+      ],
+      "TimeAttackDungeonRewardId": 1,
+      "RoomLifeTimeInSeconds": 3600
+    },
+    {
+      "Id": 43,
+      "StartDate": "2026-12-24 14:00:00",
+      "EndNoteLabelStartDate": "2026-12-27 04:00:00",
+      "EndDate": "2026-12-31 03:59:59",
+      "UISlot": 2,
+      "DungeonId": 2000,
+      "DifficultyGeas": [
+        40001,
+        40101,
+        40201,
+        40301
       ],
       "TimeAttackDungeonRewardId": 1,
       "RoomLifeTimeInSeconds": 3600

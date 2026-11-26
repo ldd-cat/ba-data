@@ -11413,7 +11413,7 @@
     {
       "Key": 1268479381,
       "NameKr": "活动挑战关卡1提示",
-      "DescriptionKr": "冬奔跑时，各种颜色的清扫车会出现。\n当冬到达美代面前后，请攻击出现次数最多的颜色的清扫车。",
+      "DescriptionKr": "冬奔跑时，各种颜色的清扫车会出现。\n请在冬到达美代面前后，攻击出现次数最多颜色的清扫车。",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -11427,14 +11427,14 @@
     {
       "Key": 1154737800,
       "NameKr": "活动挑战关卡3提示",
-      "DescriptionKr": "保持AMAS的体力在25%以上，同时通过增益效果强化AMAS，使其与敌人战斗。\n\n炸弹被破坏时，会对周围敌人造成大量伤害。请灵活利用集中攻击效果。",
+      "DescriptionKr": "请将AMAS的体力保持在25%以上，并通过增益效果强化AMAS，让它们与敌人战斗。\n\n炸弹被破坏时，会对周围敌人造成大量伤害。请灵活利用集中攻击效果。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 184757931,
       "NameKr": "活动挑战关卡4提示",
-      "DescriptionKr": "晶的体力每秒减少，当体力在50%以上时，会对我方施加强力的增益效果。\n被晶的技能命中的敌人，受到的伤害会增加。\n持盾敌人举起盾牌时会恢复体力，请通过群体控制效果来阻止。",
+      "DescriptionKr": "晶的体力会持续减少。当晶的体力在50%以上时，我方将获得强力增益效果。\n被晶的技能命中的敌人受到的伤害会增加。\n\n敌方盾兵举起盾牌时会恢复体力，请通过群体控制效果阻止。",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35017,385 +35017,385 @@
     {
       "Key": 3019432404,
       "NameKr": "狂猎主馆",
-      "DescriptionKr": "狂猎中最大的建筑物。学员会与舍监队的办公室皆设立于此，一般学员鲜少接近。",
+      "DescriptionKr": "狂猎最大的建筑物。理事会与舍监队的办公室都设在这里，普通学员很少接近。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3730667014,
       "NameKr": "埃皮法尼广场",
-      "DescriptionKr": "本馆前方延展的广场。无论天气好坏，总有街头表演与行为艺术在此上演。",
+      "DescriptionKr": "主馆前方的广场。无论天气好坏，总有街头表演与行为艺术在此上演。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1558103051,
       "NameKr": "第3宿舍楼",
-      "DescriptionKr": "学员居住的宿舍区之一。虽然处于舍监队的严密监视下，但一如往常，总有某处存在漏洞。",
+      "DescriptionKr": "学员居住的宿舍区之一。虽然一直受到舍监队的严密监视，但总有某处存在漏洞。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1365945908,
       "NameKr": "艺术情报馆",
-      "DescriptionKr": "狂猎的图书馆。不仅收藏书籍，还有唱片、乐谱、胶片、版画原版等各类艺术品。",
+      "DescriptionKr": "狂猎的图书馆。除图书外，还收藏有唱片、乐谱、胶片、版画原版等各种艺术品。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2951155655,
       "NameKr": "艺术之眼",
-      "DescriptionKr": "举办音乐会、戏剧、舞蹈等演出的场所。据传采用了千禧年学院的最新建筑技术。",
+      "DescriptionKr": "举办音乐会、戏剧、舞蹈等演出的场所。据说运用了千禧年最新的建筑技术。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3688839210,
       "NameKr": "尼莫画廊",
-      "DescriptionKr": "由匿名赞助者建造的艺术品展览馆。虽需通过严格检查，但一般人也能入场参观。",
+      "DescriptionKr": "由匿名赞助者出资建造的艺术品展览馆。虽然需要通过严格的检查，但普通人也能入场参观。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3604017483,
       "NameKr": "亚皮凯雷钟塔",
-      "DescriptionKr": "狂猎的钟楼中最高的一座。其回响时常带给听者巨大的感动，或是头痛。",
+      "DescriptionKr": "狂猎的钟楼中最高的一座。它的回响时常给人们带来强烈的感动，或是头痛。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 375386759,
       "NameKr": "奥库鲁斯工作室",
-      "DescriptionKr": "进行电影拍摄、影像剪辑、声优录音等各类影像艺术活动的综合工作室，偶尔还会举办自家影展。",
+      "DescriptionKr": "进行电影拍摄、影像剪辑、声优录音等各类影像艺术活动的综合工作室，偶尔还会有自办的电影节在此举办。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1609915763,
       "NameKr": "狂猎综合艺术地区区域经验值",
-      "DescriptionKr": "地区等级越高即可前往更多区域。",
+      "DescriptionKr": "区域评级越高，就可以访问越多区域。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2421885010,
       "NameKr": "文艺书架",
-      "DescriptionKr": "摆满文学书籍的书架。当中有许多需要极大勇气才能抽出的书籍。",
+      "DescriptionKr": "摆满文学书籍的书架。其中有许多需要鼓起莫大勇气才能抽出来的书。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3112497970,
       "NameKr": "美学书架",
-      "DescriptionKr": "摆满美学学术书籍的书架。不过前来取书的学员表情并不轻松。",
+      "DescriptionKr": "摆满美学学术书籍的书架。不过，前来取书的学员们脸上的表情并不轻松。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 301797795,
       "NameKr": "抽象图案地毯",
-      "DescriptionKr": "以抽象纹样为特色的地毯。复杂与规律在图案中达成绝妙平衡。",
+      "DescriptionKr": "以抽象花纹为特点的地毯。晦涩与规律在图案中达成了绝妙的平衡。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3001079672,
-      "NameKr": "木质图案地毯",
-      "DescriptionKr": "远看宛如木制的地毯，但触感却非常柔软。",
+      "NameKr": "木纹图案地毯",
+      "DescriptionKr": "远看仿佛由木头制成的地毯。不过摸起来却十分柔软。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1888234954,
       "NameKr": "马赛克图案地毯",
-      "DescriptionKr": "以古典纹样为特色的地毯，重新诠释古代马赛克瓷砖遗迹的花纹。",
+      "DescriptionKr": "以古典花纹为特点的地毯。重新诠释了古代马赛克瓷砖遗迹的花纹。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 837929111,
-      "NameKr": "画布搬运用拖车",
-      "DescriptionKr": "用于搬运画布与画具的推车。在没有监督的地方，偶尔也有人坐上去。",
+      "NameKr": "画具搬运推车",
+      "DescriptionKr": "用于搬运画布等画具的推车。在舍监队看不到的地方，也经常有人坐上去。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1277060067,
       "NameKr": "天鹅绒椅子",
-      "DescriptionKr": "铺有天鹅绒垫的木椅，只要坐上去就会产生权威感的错觉。",
+      "DescriptionKr": "铺有天鹅绒软垫的木椅。只要坐上去，就会产生自己多了几分威严的错觉。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3983877079,
       "NameKr": "获奖作品展台",
-      "DescriptionKr": "去年某美术展览会的得奖作品。无数的赞美与嫉妒总在此交错。",
+      "DescriptionKr": "去年在某美术展览会上荣获大奖的作品。它的身上总是交织着无数赞誉与嫉妒。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1713694610,
       "NameKr": "抽象雕塑展台",
-      "DescriptionKr": "作者不详的雕像，因艺术价值获得认可，长久屹立于此。",
+      "DescriptionKr": "作者不详的雕像。其艺术性获得认可，因此长久以来一直摆放在这里。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2472213385,
-      "NameKr": "可疑古籍展台",
-      "DescriptionKr": "摆放奇异氛围古书的展示台，至今尚未有人借阅过。",
+      "NameKr": "神秘古籍展台",
+      "DescriptionKr": "摆着一本散发奇异气息的古书的展示台。至今尚未有人借阅过。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1815109606,
       "NameKr": "禁书展台",
-      "DescriptionKr": "摆放禁书的展示台。禁忌之物被公开展示的反讽，本身也是一种艺术。",
+      "DescriptionKr": "摆着禁书的展示台。禁忌之物竟被公然展示，这种讽刺本身也是一种艺术。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2101259221,
       "NameKr": "狂猎风格木制围栏",
-      "DescriptionKr": "狂猎的古老木制围栏，岁月痕迹厚重地沉积其上。",
+      "DescriptionKr": "狂猎的古老木制围栏。厚重的岁月痕迹沉积在它身上。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2452935603,
       "NameKr": "极简主义照明",
-      "DescriptionKr": "设计简洁的照明，造型完全服从功能。",
+      "DescriptionKr": "设计简洁的灯具。其造型只服从于功能。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 865351516,
       "NameKr": "监视者壁灯",
-      "DescriptionKr": "安装于建筑墙面的壁灯，是深夜巡逻学员的可靠路标。",
+      "DescriptionKr": "安装在建筑墙面的壁灯。是深夜巡逻的舍监队员眼中令人安心的路标。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2695482073,
       "NameKr": "大型绿灯书桌",
-      "DescriptionKr": "摆有绿灯的大型书桌，陌生人同桌的情况也屡见不鲜。",
+      "DescriptionKr": "摆着绿色台灯的大型书桌。互不相识的人坐在一起也是家常便饭。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 504418052,
       "NameKr": "中型绿灯书桌",
-      "DescriptionKr": "摆有绿灯的中型书桌，即使在这样克制的空间，破坏性的艺术也时常萌芽。",
+      "DescriptionKr": "摆着绿色台灯的中型书桌。哪怕在如此克制的空间里，破坏性的艺术也时常萌芽。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3172216333,
       "NameKr": "防逃脱大型窗",
-      "DescriptionKr": "加装铁栅的大型窗户，栅栏用途似乎不仅仅是防盗。",
+      "DescriptionKr": "加装铁栅的大型窗户。铁栅的用途似乎并不只是防盗。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 486717077,
       "NameKr": "防逃脱中型窗",
-      "DescriptionKr": "加装铁栅的中型窗户，有效防止逃脱与入侵。",
+      "DescriptionKr": "加装铁栅的中型窗户。能够有效防止逃脱与入侵。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 947632910,
       "NameKr": "狂猎公告板",
-      "DescriptionKr": "张贴各种公告与宣传的布告栏，未经许可的贴文也不少，值得一探。",
+      "DescriptionKr": "张贴着各类通知和宣传材料的公告栏。未经许可的张贴物也不少，不妨找找看。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2660814915,
       "NameKr": "不眠之塔",
-      "DescriptionKr": "失眠的证据堆积如山，喝完疲劳恢复剂的空罐随意堆栈。",
+      "DescriptionKr": "喝完提神饮料后留下的空罐被胡乱堆在一起，见证了一个个不眠之夜。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1446702624,
-      "NameKr": "银河之后",
-      "DescriptionKr": "作者不详的雕像，仅作品名称流传，但其意义众说纷纭。",
+      "NameKr": "银河的延续",
+      "DescriptionKr": "作者不详的雕像。流传下来的只有作品的名字，其含义却众说纷纭。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3190754330,
       "NameKr": "标本化的音律",
-      "DescriptionKr": "某知名雕刻家的作品，杰作与劣作的争论始终尖锐对立。",
+      "DescriptionKr": "某位著名雕塑家的作品。认为它是杰作与认为它是失败之作的意见始终针锋相对。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1146153010,
       "NameKr": "绘画工作台",
-      "DescriptionKr": "画布、画架、画具、椅子，构成足以尽情作画的完整配置。",
+      "DescriptionKr": "画布、画架、画具、椅子。这套配置用来作画，可以说绰绰有余。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2919564883,
       "NameKr": "狂猎风格木制隔板",
-      "DescriptionKr": "狂猎的古老木制隔板，用于分隔大型空间。",
+      "DescriptionKr": "狂猎的古老木制隔板。用于分隔大型空间。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1281426105,
       "NameKr": "狂猎风格木制立柱",
-      "DescriptionKr": "狂猎的古老木制柱子，天花板的重量牢牢压在厚实木材中。",
+      "DescriptionKr": "狂猎的古老木制柱子。坚实的木材支撑起了天花板的重量。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1692593705,
       "NameKr": "狂猎风格木制大门",
-      "DescriptionKr": "狂猎的古老木制门廊，让通过的人不禁整理衣着。",
+      "DescriptionKr": "狂猎的古老木制大门。从它下方经过的人，都会不禁检查起自己的衣着。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3076282914,
       "NameKr": "狂猎风格玻璃隔板",
-      "DescriptionKr": "狂猎的古老玻璃隔板，因年代久远表面粗糙，但营造出独特氛围。",
+      "DescriptionKr": "狂猎的古老玻璃隔板。年代久远的玻璃表面变得粗糙，却也因此有了独特的氛围。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 4055705513,
       "NameKr": "简易画具架",
-      "DescriptionKr": "摆满各种画具的简易层架，混杂许多来历不明的物品。",
+      "DescriptionKr": "堆放着各种画具的架子，其中还混杂着许多不知属于谁的物品。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1538604811,
       "NameKr": "绘画用置物架",
-      "DescriptionKr": "摆满各种画具的整齐层架，但整洁状态维持不了多久。",
+      "DescriptionKr": "整齐摆放着各种画具的架子。不过，这份整洁维持不了多久。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3295668707,
       "NameKr": "艺术家的卧榻",
-      "DescriptionKr": "工作室角落的沙发，虽不适合熟睡，但熬夜时已顾不得这些。",
+      "DescriptionKr": "放在工作室角落的沙发。它的结构并不适合熟睡，不过熬起夜来，这种事也就不成问题了。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1553171869,
-      "NameKr": "阶梯式平台",
-      "DescriptionKr": "用于演讲或讲论的阶梯式讲台，能暂时将众人置于脚下。",
+      "NameKr": "阶梯式讲台",
+      "DescriptionKr": "用于演说与讲学的阶梯式讲台。站上去，便能暂时体验一番俯视众人的感觉。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2800446403,
       "NameKr": "混乱的大型绿灯书桌",
-      "DescriptionKr": "凌乱的大型书桌，是勤学的痕迹，还是混乱的残影？",
+      "DescriptionKr": "凌乱的大型书桌。这是勤学苦读的成果，还是一场混乱留下的痕迹？",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 4066808432,
       "NameKr": "混乱的中型绿灯书桌",
-      "DescriptionKr": "凌乱的中型书桌，当监督者赶到时，事态早已结束。",
+      "DescriptionKr": "凌乱的中型书桌。舍监队赶到时，事情早已结束。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 4137013604,
       "NameKr": "装饰用木制墙壁",
-      "DescriptionKr": "与狂猎氛围相得益彰的装饰墙面，蓝色壁纸成为亮点。",
+      "DescriptionKr": "与狂猎氛围相得益彰的装饰墙面。蓝色壁纸恰到好处地点缀其间。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2042621021,
       "NameKr": "棋盘格石地板",
-      "DescriptionKr": "棋盘格纹的石材地板，虽经无数人踩踏，仍不失光彩。",
+      "DescriptionKr": "棋盘格纹的石制地板。无数人从它上面走过，它也依然没有失去光彩。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 461885748,
       "NameKr": "水墨背景",
-      "DescriptionKr": "黑白交织的背景，展现宛如水墨画般的克制之美。",
+      "DescriptionKr": "黑白交融的背景。展现出宛如水墨画般的克制之美。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 885678970,
       "NameKr": "超大书柜",
-      "DescriptionKr": "摆满各类书籍的超大型书架，没有梯子难以取下顶层书籍。",
+      "DescriptionKr": "摆满各类书籍的超大型书架。没有梯子的话，很难拿到最顶层的书。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 388379301,
       "NameKr": "书架用梯子",
-      "DescriptionKr": "用于上下书架的梯子，总让人产生想攀爬的冲动。",
+      "DescriptionKr": "用于上下书架的梯子。唯一的问题是，会让人忍不住想爬上去试试。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2107674786,
       "NameKr": "展示用书柜",
-      "DescriptionKr": "用于摆放古董或装饰品的书架，许多学员常在此徘徊。",
+      "DescriptionKr": "用于陈列古董与装饰品的书架。许多学员常在它前面徘徊。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1976657339,
       "NameKr": "狂乱的绘画工作台",
-      "DescriptionKr": "正在创作的画家座位，彷佛灵感或疯狂席卷而过。",
+      "DescriptionKr": "正在创作的画家的工作区。仿佛有灵感或者疯狂从这里席卷而过。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 51435562,
-      "NameKr": "艺术家的脑海中",
-      "DescriptionKr": "堆满学员杂物的桌子，杂乱无章，但有人能从中挖掘艺术。",
+      "NameKr": "艺术家的脑海",
+      "DescriptionKr": "堆满学员杂物的桌子。虽然杂乱无章，但总有人能从中挖掘出艺术。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3731052108,
-      "NameKr": "狂猎徽章",
-      "DescriptionKr": "织有狂猎徽章的旗帜。",
+      "NameKr": "狂猎挂旗",
+      "DescriptionKr": "绣有狂猎徽章的挂旗。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2911873771,
       "NameKr": "露台音乐厅",
-      "DescriptionKr": "随时可举办演奏会的露台，备有各种乐器。",
+      "DescriptionKr": "配备了各种乐器的露台。随时都能举行演奏会。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2229322849,
       "NameKr": "艺术情报馆内部通道",
-      "DescriptionKr": "通往狂猎图书馆「艺术情报馆」的内部通道，总是人潮不断。",
+      "DescriptionKr": "通往狂猎图书馆“艺术情报馆”的内部通道。总是挤满了来来往往的人。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 3162765576,
       "NameKr": "狂猎螺旋阶梯",
-      "DescriptionKr": "通往楼上的螺旋阶梯，踏板狭窄，切勿奔跑。",
+      "DescriptionKr": "通往建筑上层的螺旋楼梯。踏板较窄，请勿奔跑。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 421036472,
       "NameKr": "狂猎校园主题",
-      "DescriptionKr": "艺术与灵感奔涌的狂猎校园，美丽究竟是什么？一起来思考吧！",
+      "DescriptionKr": "奔涌着艺术与灵感的狂猎校园。美究竟是什么？让我们一起来思考吧！",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35416,7 +35416,7 @@
     {
       "Key": 1979335525,
       "NameKr": "纪念品店卡牌",
-      "DescriptionKr": "狂猎美术馆纪念品商店贩卖的扑克牌。精致度高到让人舍不得用于游戏。",
+      "DescriptionKr": "狂猎美术馆纪念品商店出售的卡牌。其精美的设计，甚至让人舍不得拿它来玩游戏。",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35437,7 +35437,7 @@
     {
       "Key": 2117511996,
       "NameKr": "书带",
-      "DescriptionKr": "用于绑书携带的皮革腰带。悄悄展现你的阅读品味。",
+      "DescriptionKr": "用于捆扎书籍、方便携带的皮革带子。用它在不经意间展现你的阅读品味吧。",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35450,8 +35450,8 @@
     },
     {
       "Key": 2923013887,
-      "NameKr": "艺术为谁而存",
-      "DescriptionKr": "可在艺术为谁而存活动中获得",
+      "NameKr": "为谁而存的艺术",
+      "DescriptionKr": "可在为谁而存的艺术活动中获得",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35464,29 +35464,29 @@
     },
     {
       "Key": 1286967671,
-      "NameKr": "放在盒中的旧游戏机",
-      "DescriptionKr": "桃井与妹妹第一次一起购买的掌上型游戏机。\n桃井的「游戏推坑作战」似乎就这样圆满成功了……",
+      "NameKr": "盒中的旧游戏机",
+      "DescriptionKr": "小桃和妹妹第一次一起买下的掌上游戏机。\n她的“拉人进游戏坑”计划，似乎就这样圆满成功了……",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2108207432,
-      "NameKr": "古旧的节日人偶",
-      "DescriptionKr": "海花第一次参加祭典时买下的人偶。\n是一对成双的造型。",
+      "NameKr": "古旧的庆典人偶",
+      "DescriptionKr": "海香第一次参加庆典时买下的人偶。\n两只正好是一对。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2538736248,
       "NameKr": "一决胜负硬币",
-      "DescriptionKr": "小雪亲手钻孔的硬币。\n原本是为了免费使用游戏机，但随着安全技术的进步，如今已成为无用之物。",
+      "DescriptionKr": "小雪亲手钻孔的硬币。\n它原本是用来免费玩游戏机的，但随着安全技术的进步，如今已失去了作用。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2177848562,
       "NameKr": "蝶形翅膀装饰",
-      "DescriptionKr": "羽留奈的翅膀装饰。\n据说会依情况、心情与意义，随时更换不同的翅膀饰品。",
+      "DescriptionKr": "晴奈的翅膀装饰。\n据说她会根据不同情况、心情和所要表达的含义，佩戴不同的饰品。",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35521,21 +35521,21 @@
     {
       "Key": 3798522794,
       "NameKr": "艺术家的早期作品",
-      "DescriptionKr": "某位媒体艺术家的早期作品。虽然本人觉得害羞，但其中蕴含的热情无法估量。",
+      "DescriptionKr": "某位媒体艺术家的早期作品。虽然本人对此颇感羞耻，但其中蕴含的热情却无法估量。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 935541676,
       "NameKr": "雕刻工作台",
-      "DescriptionKr": "放置雕刻石材的工作台。外观粗犷，但足以孕育精致的艺术。",
+      "DescriptionKr": "放置雕刻石材的工作台。外观粗犷，但足够孕育出精致的艺术。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 2957072884,
       "NameKr": "狂猎校园主题",
-      "DescriptionKr": "可制造咖啡厅家具。(狂猎校园主题)",
+      "DescriptionKr": "可生成咖啡厅家具（狂猎校园主题）。",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35619,14 +35619,14 @@
     {
       "Key": 938893335,
       "NameKr": "爆米花桶",
-      "DescriptionKr": "魔法少女Heavy Caliber的吉祥物设计爆米花桶。做工似乎有点粗糙。",
+      "DescriptionKr": "以魔法少女Heavy Caliber的吉祥物为原型设计的爆米花桶。做工似乎有些粗糙。",
       "NameJp": "",
       "DescriptionJp": ""
     },
     {
       "Key": 1363650339,
-      "NameKr": "边境硬币",
-      "DescriptionKr": "Borderlands乐园的游乐设施代币。过去可用于贩卖机或购买饮食，但如今大多连员工都不知道用途。",
+      "NameKr": "边境乐园硬币",
+      "DescriptionKr": "边境乐园的游乐设施代币。过去可以用在自动贩卖机上，或购买食品和饮料，但如今就连园内的大部分员工也不知道它有什么用途。",
       "NameJp": "",
       "DescriptionJp": ""
     },
@@ -35667,8 +35667,8 @@
     },
     {
       "Key": 3421618515,
-      "NameKr": "二手市场纸箱",
-      "DescriptionKr": "供沙勒来访学员交换不需要物品的箱子。怀着不贪心的心态，感谢地使用吧。",
+      "NameKr": "闲置物品分享箱",
+      "DescriptionKr": "供来访沙勒的学员分享闲置物品的箱子。请不要贪心，怀着感激之心取用吧。",
       "NameJp": "",
       "DescriptionJp": ""
     },

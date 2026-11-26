@@ -1176,7 +1176,7 @@
       "ActionName": "",
       "Duration": 8200,
       "AnimationName": "BoxGachaBuy_300_M",
-      "Localize_KR": "……完了吗？\n那我去拿下一张单子。",
+      "Localize_KR": "……完成了吗？\n那我去拿下一张单子。",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": false,
@@ -199735,7 +199735,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "07",
-      "Localize_KR": "어서 오세요, 선생님.\n마침 플롯 작성이\n끝났어요.",
+      "Localize_KR": "欢迎回来，老师。\n正好我刚写完剧情大纲。",
       "Localize_JP": "",
       "VoiceId": [
         871064392
@@ -199764,7 +199764,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "10",
-      "Localize_KR": "선생님을 보니까,\n마음이\n훨씬 편해지네요.",
+      "Localize_KR": "见到老师，\n心里就舒服多了。",
       "Localize_JP": "",
       "VoiceId": [
         4252124075
@@ -199793,7 +199793,7 @@
       "ActionName": "",
       "Duration": 2530,
       "AnimationName": "23",
-      "Localize_KR": "와일드헌트에\n입학했을 때,",
+      "Localize_KR": "刚来狂猎的时候，",
       "Localize_JP": "",
       "VoiceId": [
         1806363955
@@ -199805,7 +199805,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2530
+      "Duration_CN": 1900
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -199822,7 +199822,7 @@
       "ActionName": "",
       "Duration": 5920,
       "AnimationName": "22",
-      "Localize_KR": "이런 일을 하게\n될 거라고는 상상도\n못 했었는데…….",
+      "Localize_KR": "从没想过会做这种事……",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -199832,7 +199832,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 5920
+      "Duration_CN": 3250
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -199849,7 +199849,7 @@
       "ActionName": "",
       "Duration": 2610,
       "AnimationName": "22",
-      "Localize_KR": "상황이 꽤나\n꼬인 것 같네요.",
+      "Localize_KR": "情况好像变得\n挺复杂的呢。",
       "Localize_JP": "",
       "VoiceId": [
         4084310963
@@ -199861,7 +199861,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2610
+      "Duration_CN": 2600
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -199878,7 +199878,7 @@
       "ActionName": "",
       "Duration": 2800,
       "AnimationName": "18",
-      "Localize_KR": "……그래도\n포기할 수는 없어요.",
+      "Localize_KR": "……但我还不能放弃。",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -199888,7 +199888,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2800
+      "Duration_CN": 1800
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -199905,7 +199905,7 @@
       "ActionName": "",
       "Duration": 3870,
       "AnimationName": "15",
-      "Localize_KR": "완결은 내야 하니까.",
+      "Localize_KR": "一定要写完结局。",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -199915,7 +199915,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3870
+      "Duration_CN": 2350
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -199932,7 +199932,7 @@
       "ActionName": "",
       "Duration": 2300,
       "AnimationName": "19",
-      "Localize_KR": "다행히\n잘 끝이 났네요.",
+      "Localize_KR": "幸好顺利收尾了。",
       "Localize_JP": "",
       "VoiceId": [
         1884445366
@@ -199944,7 +199944,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2300
+      "Duration_CN": 2500
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -199961,7 +199961,7 @@
       "ActionName": "",
       "Duration": 4860,
       "AnimationName": "27",
-      "Localize_KR": "……그래도 앞으로는\n이런 의뢰 안\n받을래요. 후으으…….",
+      "Localize_KR": "……不过，\n以后我再也不想接\n这种委托了。\n呼呜……",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -199971,7 +199971,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 4860
+      "Duration_CN": 5800
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -199988,7 +199988,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "23",
-      "Localize_KR": "네? 제 타자기 소리가\n조금 시끄러웠나요……?",
+      "Localize_KR": "嗯？\n是我打字机的声音\n有点吵吗……？",
       "Localize_JP": "",
       "VoiceId": [
         3563121076
@@ -200017,7 +200017,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "21",
-      "Localize_KR": "저, 어쩌다 이런 일에\n휘말린 걸까요…….",
+      "Localize_KR": "我怎么会被卷进\n这种事情里呢……",
       "Localize_JP": "",
       "VoiceId": [
         2845739211
@@ -200046,7 +200046,7 @@
       "ActionName": "",
       "Duration": 3290,
       "AnimationName": "31",
-      "Localize_KR": "그렇게 계속 저를\n빤히 쳐다보시면……",
+      "Localize_KR": "您要一直那样\n盯着我看的话……",
       "Localize_JP": "",
       "VoiceId": [
         1847893804
@@ -200058,7 +200058,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3290
+      "Duration_CN": 3150
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -200075,7 +200075,7 @@
       "ActionName": "",
       "Duration": 3330,
       "AnimationName": "13",
-      "Localize_KR": "좋네요, 후후.",
+      "Localize_KR": "也挺好的呢，\n呵呵。",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200085,7 +200085,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3330
+      "Duration_CN": 4250
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -200102,7 +200102,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "07",
-      "Localize_KR": "일 끝나면,\n저희 기숙사로\n놀러 오세요.",
+      "Localize_KR": "工作结束后，\n就来我们宿舍玩吧。",
       "Localize_JP": "",
       "VoiceId": [
         1813755625
@@ -200131,7 +200131,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "00",
-      "Localize_KR": "인사드립니다!\n특수교역부의 영업실장,\n와카사 후유입니다!",
+      "Localize_KR": "您好！\n我是特殊交易部的\n业务主任，若狭冬！",
       "Localize_JP": "",
       "VoiceId": [
         2706805583
@@ -200160,7 +200160,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "01",
-      "Localize_KR": "필요한 것이 있다면,\n부담 없이\n문의 바랍니다.",
+      "Localize_KR": "有什么需要的，\n都可以来问我。",
       "Localize_JP": "",
       "VoiceId": [
         1850391589
@@ -200189,7 +200189,7 @@
       "ActionName": "",
       "Duration": 2180,
       "AnimationName": "27",
-      "Localize_KR": "후, 후후, 후……",
+      "Localize_KR": "呵，呵，呵……",
       "Localize_JP": "",
       "VoiceId": [
         1788709480
@@ -200201,7 +200201,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2180
+      "Duration_CN": 1600
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200218,7 +200218,7 @@
       "ActionName": "",
       "Duration": 4110,
       "AnimationName": "26",
-      "Localize_KR": "이, 이런 일쯤은\n충분히\n대응 가능하다고요?",
+      "Localize_KR": "这点小事我完全能对付！",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200228,7 +200228,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 4110
+      "Duration_CN": 3900
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200245,7 +200245,7 @@
       "ActionName": "",
       "Duration": 2460,
       "AnimationName": "06",
-      "Localize_KR": "(왜 이렇게 됐지?\n뭘 잘못했지?)",
+      "Localize_KR": "（怎么会这样？\n我做错什么了？）",
       "Localize_JP": "",
       "VoiceId": [
         1918088015
@@ -200257,7 +200257,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2460
+      "Duration_CN": 2500
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200274,7 +200274,7 @@
       "ActionName": "",
       "Duration": 4260,
       "AnimationName": "25",
-      "Localize_KR": "(이거 망한 거죠?\n그렇죠?\n역시 그렇죠?!)",
+      "Localize_KR": "（这下完蛋了吧？\n是吧？真的完蛋了吧？！）",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200284,7 +200284,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter4",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 4260
+      "Duration_CN": 5500
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200301,7 +200301,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "27",
-      "Localize_KR": "후…… 후후……\n당분간 이런 의뢰는\n피해야겠어요…….",
+      "Localize_KR": "呵……呵呵……\n这种委托暂时还是\n别接了吧……",
       "Localize_JP": "",
       "VoiceId": [
         276803610
@@ -200330,7 +200330,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "08",
-      "Localize_KR": "예, 맞아요.\n제가 바로 저희\n동아리의 얼굴이죠.",
+      "Localize_KR": "啊，是的，没错。\n我就是我们社团的门面。",
       "Localize_JP": "",
       "VoiceId": [
         257608678
@@ -200359,7 +200359,7 @@
       "ActionName": "",
       "Duration": 6820,
       "AnimationName": "00",
-      "Localize_KR": "접선하고,\n의뢰를 받고,\n고객을 응대하고……",
+      "Localize_KR": "商务接洽、承接委托、\n服务顾客……",
       "Localize_JP": "",
       "VoiceId": [
         2732525506
@@ -200371,7 +200371,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 6820
+      "Duration_CN": 4100
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200388,7 +200388,7 @@
       "ActionName": "",
       "Duration": 2750,
       "AnimationName": "13",
-      "Localize_KR": "예, 그게 저의\n역할이랍니다.",
+      "Localize_KR": "嗯，这都是我的职责。",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200398,7 +200398,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2750
+      "Duration_CN": 3000
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200415,7 +200415,7 @@
       "ActionName": "",
       "Duration": 2500,
       "AnimationName": "16",
-      "Localize_KR": "물론 미요와 리츠 쨩의\n서포트가 없다면,",
+      "Localize_KR": "当然，如果没有\n美代和小律的支持，",
       "Localize_JP": "",
       "VoiceId": [
         1268876243
@@ -200427,7 +200427,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2500
+      "Duration_CN": 3600
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200444,7 +200444,7 @@
       "ActionName": "",
       "Duration": 5000,
       "AnimationName": "07",
-      "Localize_KR": "저는 그저\n평범한 예술학원 학생에\n지나지 않았겠죠.",
+      "Localize_KR": "我不过就是个艺术学院的\n普通学员罢了。",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200454,7 +200454,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 5000
+      "Duration_CN": 3800
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -200471,7 +200471,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "23",
-      "Localize_KR": "……예술이란,\n정말 쉽지 않네요.",
+      "Localize_KR": "……搞艺术，\n真的很不容易啊。",
       "Localize_JP": "",
       "VoiceId": [
         1847561192
@@ -200500,7 +200500,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "09",
-      "Localize_KR": "어서 와, 선생님!\n이쪽이야!!",
+      "Localize_KR": "快来，老师！在这里！",
       "Localize_JP": "",
       "VoiceId": [
         3915359234
@@ -200529,7 +200529,7 @@
       "ActionName": "",
       "Duration": 3350,
       "AnimationName": "25",
-      "Localize_KR": "뭔가 복잡한 일이\n벌어진 것 같은데……",
+      "Localize_KR": "总觉得好像发生了\n什么很复杂的事……",
       "Localize_JP": "",
       "VoiceId": [
         3098035341
@@ -200541,7 +200541,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3350
+      "Duration_CN": 3500
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200558,7 +200558,7 @@
       "ActionName": "",
       "Duration": 3000,
       "AnimationName": "13",
-      "Localize_KR": "일단 뭐,\n부딪쳐 볼까!",
+      "Localize_KR": "唔，先试试看吧！",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200568,7 +200568,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter2",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3000
+      "Duration_CN": 2600
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200585,7 +200585,7 @@
       "ActionName": "",
       "Duration": 2600,
       "AnimationName": "23",
-      "Localize_KR": "이런 의뢰는\n처음인데…….",
+      "Localize_KR": "还是第一次\n接这种委托……",
       "Localize_JP": "",
       "VoiceId": [
         1235704136
@@ -200597,7 +200597,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2600
+      "Duration_CN": 2800
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200614,7 +200614,7 @@
       "ActionName": "",
       "Duration": 3330,
       "AnimationName": "09",
-      "Localize_KR": "뭐, 미요 쨩이 멋지게\n작전을 짜 주겠지?",
+      "Localize_KR": "唔，不过小美代\n肯定会把作战计划安排得\n很帅气吧？",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200624,7 +200624,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter3",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3330
+      "Duration_CN": 5500
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200641,7 +200641,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "12",
-      "Localize_KR": "우리, 뭔가 이상하고\n재밌는 의뢰를\n받아버린 걸 지도……?",
+      "Localize_KR": "我们，\n好像接了一份很奇怪\n又有意思的委托……？",
       "Localize_JP": "",
       "VoiceId": [
         1041768281
@@ -200670,7 +200670,7 @@
       "ActionName": "",
       "Duration": 3790,
       "AnimationName": "18",
-      "Localize_KR": "끝나 버렸다~",
+      "Localize_KR": "结束啦~",
       "Localize_JP": "",
       "VoiceId": [
         2467094298
@@ -200682,7 +200682,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3790
+      "Duration_CN": 2650
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200699,7 +200699,7 @@
       "ActionName": "",
       "Duration": 3410,
       "AnimationName": "19",
-      "Localize_KR": "응? 그런데 왜 다들\n축 늘어져 있지?",
+      "Localize_KR": "嗯？\n可是大家为什么\n都瘫倒了？",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200709,7 +200709,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Enter5",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3410
+      "Duration_CN": 4310
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200726,7 +200726,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "00",
-      "Localize_KR": "왜, 선생님?\n내 얼굴에\n돌가루라도 묻었어?",
+      "Localize_KR": "嗯？怎么了，老师？\n我脸上粘到石粉了吗？",
       "Localize_JP": "",
       "VoiceId": [
         2418622458
@@ -200755,7 +200755,7 @@
       "ActionName": "",
       "Duration": 2870,
       "AnimationName": "10",
-      "Localize_KR": "아하하!",
+      "Localize_KR": "啊哈哈！",
       "Localize_JP": "",
       "VoiceId": [
         3547230433
@@ -200767,7 +200767,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2870
+      "Duration_CN": 3100
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200784,7 +200784,7 @@
       "ActionName": "",
       "Duration": 6130,
       "AnimationName": "12",
-      "Localize_KR": "자꾸 찌르면,\n나도 찌를 거야?",
+      "Localize_KR": "你再一直戳我，\n我就要戳回去了哦？",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200794,7 +200794,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle2",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 6130
+      "Duration_CN": 6000
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200811,7 +200811,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "30",
-      "Localize_KR": "다, 다들 너무\n심각해지지\n않아도 괜찮은데…….",
+      "Localize_KR": "大，大家也不用\n这么严肃吧……",
       "Localize_JP": "",
       "VoiceId": [
         1301936440
@@ -200840,7 +200840,7 @@
       "ActionName": "",
       "Duration": 4000,
       "AnimationName": "08",
-      "Localize_KR": "괜찮아!\n특수교역부는",
+      "Localize_KR": "没关系！",
       "Localize_JP": "",
       "VoiceId": [
         3408126180
@@ -200852,7 +200852,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 4000
+      "Duration_CN": 1250
     },
     {
       "CostumeUniqueId": 1900944201,
@@ -200869,7 +200869,7 @@
       "ActionName": "",
       "Duration": 3400,
       "AnimationName": "00",
-      "Localize_KR": "늘 어떻게든\n방법을 찾아내니까!",
+      "Localize_KR": "特殊交易部总会\n找到办法的！",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -200879,7 +200879,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventLobby_Idle4",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 3400
+      "Duration_CN": 3100
     },
     {
       "CostumeUniqueId": 1900944001,
@@ -200896,7 +200896,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "03",
-      "Localize_KR": "환영합니다, 선생님.\n이쪽으로 오세요.",
+      "Localize_KR": "欢迎您，老师。\n请往这边走。",
       "Localize_JP": "",
       "VoiceId": [
         4216522531
@@ -200925,7 +200925,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "07",
-      "Localize_KR": "손 주세요, 선생님.\n함께 카드를 뽑아 봐요.",
+      "Localize_KR": "请把手给我，老师。\n我们一起抽卡吧。",
       "Localize_JP": "",
       "VoiceId": [
         1298297401
@@ -200954,7 +200954,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "03",
-      "Localize_KR": "결말은 중요하죠. \n후회 없이, 이곳에서의\n마지막을 보고 가세요.",
+      "Localize_KR": "结局很重要呢。\n别留遗憾，看完再走吧。",
       "Localize_JP": "",
       "VoiceId": [
         741115521
@@ -200983,7 +200983,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "23",
-      "Localize_KR": "네?\n카드에 문제가 있나요?",
+      "Localize_KR": "嗯？牌有什么问题吗？",
       "Localize_JP": "",
       "VoiceId": [
         2048221877
@@ -201012,7 +201012,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "07",
-      "Localize_KR": "노리시는 카드가\n있으신가요?",
+      "Localize_KR": "您有想要的牌吗？",
       "Localize_JP": "",
       "VoiceId": [
         3573589000
@@ -201041,7 +201041,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "24",
-      "Localize_KR": "이건……! 저도\n책에서밖에 본 적이\n없는 카드에요……!",
+      "Localize_KR": "这是……！\n连我都只在书里\n看到过的卡牌……！",
       "Localize_JP": "",
       "VoiceId": [
         1904561482
@@ -201070,7 +201070,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "13",
-      "Localize_KR": "운이 좋네요, 선생님!\n그럼 이 흐름을 타고,\n계속……!",
+      "Localize_KR": "哇，老师，\n您运气真好！\n就顺着这个节奏，\n继续……！",
       "Localize_JP": "",
       "VoiceId": [
         3214467323
@@ -201099,7 +201099,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "07",
-      "Localize_KR": "평범함은,\n평범함 나름의\n미학이 있죠 ",
+      "Localize_KR": "平凡有平凡的美学。",
       "Localize_JP": "",
       "VoiceId": [
         998456828
@@ -201128,7 +201128,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "08",
-      "Localize_KR": "낙담 마세요, 선생님.\n불운은 다음 행운을\n암시하기도 하니까요.",
+      "Localize_KR": "别灰心，老师。\n不幸暗示着下一次\n幸运的来临。",
       "Localize_JP": "",
       "VoiceId": [
         616926731
@@ -201157,7 +201157,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "14",
-      "Localize_KR": "시간도 재고도\n충분하답니다.\n여유롭게 둘러보시길.",
+      "Localize_KR": "时间和库存都很充足。\n请随便逛吧。",
       "Localize_JP": "",
       "VoiceId": [
         4068583502
@@ -201186,7 +201186,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "00",
-      "Localize_KR": "찾으시는 물건이\n있으신가요?",
+      "Localize_KR": "您有什么要找的东西吗？",
       "Localize_JP": "",
       "VoiceId": [
         814783014
@@ -201215,7 +201215,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "13",
-      "Localize_KR": "폐점까지는\n시간이 좀 남았습니다.\n차분히 둘러보세요.",
+      "Localize_KR": "离打烊还有一点时间。\n您可以慢慢地逛。",
       "Localize_JP": "",
       "VoiceId": [
         1832885271
@@ -201244,7 +201244,7 @@
       "ActionName": "",
       "Duration": 2900,
       "AnimationName": "16",
-      "Localize_KR": "따로 원하는 게\n있으시다고요?",
+      "Localize_KR": "还有其他想要的？",
       "Localize_JP": "",
       "VoiceId": [
         2477793323
@@ -201256,7 +201256,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 2900
+      "Duration_CN": 3400
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -201273,7 +201273,7 @@
       "ActionName": "",
       "Duration": 4060,
       "AnimationName": "10",
-      "Localize_KR": "……이쪽에서 한 번\n이야기해 보시죠.",
+      "Localize_KR": "……不妨借一步说话吧。",
       "Localize_JP": "",
       "VoiceId": [],
       "CollectionVisible": true,
@@ -201283,7 +201283,7 @@
       "ScenarioGroupId": 10048005,
       "LocalizeCVGroup": "CVGroup_UIEventShop_Idle1",
       "ScenarioCharacterShapes": "None",
-      "Duration_CN": 4060
+      "Duration_CN": 2450
     },
     {
       "CostumeUniqueId": 1900944101,
@@ -201300,7 +201300,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "09",
-      "Localize_KR": "푸핫! 그, 그렇게\n찌르셔도 할인은\n안 된다고요?",
+      "Localize_KR": "噗哈！\n再怎么戳我也不会打折的啦？",
       "Localize_JP": "",
       "VoiceId": [
         2184628200
@@ -201329,7 +201329,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "00",
-      "Localize_KR": "세련된 안목이시군요.",
+      "Localize_KR": "眼光不错哦。",
       "Localize_JP": "",
       "VoiceId": [
         1069270341
@@ -201358,7 +201358,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "10",
-      "Localize_KR": "저도 눈여겨보던\n제품입니다.",
+      "Localize_KR": "这件商品我也有留意过呢。",
       "Localize_JP": "",
       "VoiceId": [
         3678903248
@@ -201387,7 +201387,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "13",
-      "Localize_KR": "교환 및 환불은\n어렵답니다?",
+      "Localize_KR": "退换货会比较困难哦。",
       "Localize_JP": "",
       "VoiceId": [
         1906278709
@@ -201416,7 +201416,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "01",
-      "Localize_KR": "훌륭한 선택입니다.\n혹시 포장,\n필요하신가요?",
+      "Localize_KR": "很不错的选择。\n需要包起来吗？",
       "Localize_JP": "",
       "VoiceId": [
         440348383
@@ -201445,7 +201445,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "00",
-      "Localize_KR": "즐거운 일들이 잔~뜩\n준비되어 있다고,\n선생님?",
+      "Localize_KR": "还有好多好多开心的事情\n等着我们呢，老师！",
       "Localize_JP": "",
       "VoiceId": [
         2443083511
@@ -201474,7 +201474,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "10",
-      "Localize_KR": "불가능한 건 없어!\n어려울 수는 있지만!",
+      "Localize_KR": "没有什么是不可能的！\n虽然可能有点难！",
       "Localize_JP": "",
       "VoiceId": [
         1588798674
@@ -201503,7 +201503,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "14",
-      "Localize_KR": "역시 선생님!\n대단해!",
+      "Localize_KR": "不愧是老师！好厉害！",
       "Localize_JP": "",
       "VoiceId": [
         2866923174
@@ -201532,7 +201532,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "01",
-      "Localize_KR": "보상은 잘 챙겼어?\n이따 꼭 잊지 말고\n챙겨 가자!",
+      "Localize_KR": "报酬收好了吗？\n一会儿可千万别忘了带走呀！",
       "Localize_JP": "",
       "VoiceId": [
         2528721914
@@ -201561,7 +201561,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "03",
-      "Localize_KR": "응?\n궁금한 거라도 있어?",
+      "Localize_KR": "嗯？还有什么想问的？",
       "Localize_JP": "",
       "VoiceId": [
         3181340434
@@ -201590,7 +201590,7 @@
       "ActionName": "",
       "Duration": 0,
       "AnimationName": "11",
-      "Localize_KR": "힘들지만 즐거웠다고?\n헤헤, 나도야, 선생님.",
+      "Localize_KR": "虽然很累，但是很开心？\n嘿嘿，我也是哦，老师。",
       "Localize_JP": "",
       "VoiceId": [
         224253038

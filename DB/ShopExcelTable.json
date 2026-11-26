@@ -7932,6 +7932,51 @@
       "ShopUpdateGroupId": 0
     },
     {
+      "Id": 1901130,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        1901081,
+        1901082,
+        1901083,
+        1901084
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
+      "Id": 1901140,
+      "LocalizeEtcId": 3308377822,
+      "CategoryType": "RecruitSellection",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        1901085,
+        1901086,
+        1901087
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 0,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 0
+    },
+    {
       "Id": 2100000,
       "LocalizeEtcId": 676678427,
       "CategoryType": "Raid",
@@ -118380,7 +118425,7 @@
       "GoodsId": [
         2101
       ],
-      "DisplayOrder": 999,
+      "DisplayOrder": 191,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119200,7 +119245,7 @@
       "GoodsId": [
         2400
       ],
-      "DisplayOrder": 95,
+      "DisplayOrder": 103,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119220,7 +119265,7 @@
       "GoodsId": [
         2401
       ],
-      "DisplayOrder": 96,
+      "DisplayOrder": 104,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119240,7 +119285,7 @@
       "GoodsId": [
         2402
       ],
-      "DisplayOrder": 97,
+      "DisplayOrder": 105,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119260,7 +119305,7 @@
       "GoodsId": [
         2403
       ],
-      "DisplayOrder": 98,
+      "DisplayOrder": 106,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119280,7 +119325,7 @@
       "GoodsId": [
         2404
       ],
-      "DisplayOrder": 99,
+      "DisplayOrder": 107,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119300,7 +119345,7 @@
       "GoodsId": [
         2405
       ],
-      "DisplayOrder": 100,
+      "DisplayOrder": 108,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119320,7 +119365,7 @@
       "GoodsId": [
         2406
       ],
-      "DisplayOrder": 101,
+      "DisplayOrder": 109,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119340,7 +119385,7 @@
       "GoodsId": [
         2407
       ],
-      "DisplayOrder": 102,
+      "DisplayOrder": 110,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119360,7 +119405,7 @@
       "GoodsId": [
         2408
       ],
-      "DisplayOrder": 103,
+      "DisplayOrder": 111,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119380,7 +119425,7 @@
       "GoodsId": [
         2409
       ],
-      "DisplayOrder": 104,
+      "DisplayOrder": 112,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119400,7 +119445,7 @@
       "GoodsId": [
         2410
       ],
-      "DisplayOrder": 105,
+      "DisplayOrder": 113,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119420,7 +119465,7 @@
       "GoodsId": [
         2411
       ],
-      "DisplayOrder": 106,
+      "DisplayOrder": 114,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119440,7 +119485,7 @@
       "GoodsId": [
         2412
       ],
-      "DisplayOrder": 107,
+      "DisplayOrder": 115,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119460,7 +119505,7 @@
       "GoodsId": [
         2413
       ],
-      "DisplayOrder": 108,
+      "DisplayOrder": 116,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119480,7 +119525,7 @@
       "GoodsId": [
         2414
       ],
-      "DisplayOrder": 109,
+      "DisplayOrder": 117,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119500,7 +119545,7 @@
       "GoodsId": [
         2415
       ],
-      "DisplayOrder": 110,
+      "DisplayOrder": 118,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119520,7 +119565,7 @@
       "GoodsId": [
         2416
       ],
-      "DisplayOrder": 111,
+      "DisplayOrder": 119,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119540,7 +119585,7 @@
       "GoodsId": [
         2417
       ],
-      "DisplayOrder": 112,
+      "DisplayOrder": 120,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119560,7 +119605,7 @@
       "GoodsId": [
         2418
       ],
-      "DisplayOrder": 113,
+      "DisplayOrder": 121,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119580,7 +119625,7 @@
       "GoodsId": [
         2419
       ],
-      "DisplayOrder": 114,
+      "DisplayOrder": 122,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119600,7 +119645,7 @@
       "GoodsId": [
         2420
       ],
-      "DisplayOrder": 115,
+      "DisplayOrder": 123,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119620,7 +119665,7 @@
       "GoodsId": [
         2421
       ],
-      "DisplayOrder": 116,
+      "DisplayOrder": 124,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119640,7 +119685,7 @@
       "GoodsId": [
         2422
       ],
-      "DisplayOrder": 117,
+      "DisplayOrder": 125,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119660,7 +119705,7 @@
       "GoodsId": [
         2423
       ],
-      "DisplayOrder": 118,
+      "DisplayOrder": 126,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119680,7 +119725,7 @@
       "GoodsId": [
         2424
       ],
-      "DisplayOrder": 119,
+      "DisplayOrder": 127,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119700,7 +119745,7 @@
       "GoodsId": [
         2425
       ],
-      "DisplayOrder": 120,
+      "DisplayOrder": 128,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119720,7 +119765,7 @@
       "GoodsId": [
         2426
       ],
-      "DisplayOrder": 121,
+      "DisplayOrder": 129,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119740,7 +119785,7 @@
       "GoodsId": [
         2427
       ],
-      "DisplayOrder": 122,
+      "DisplayOrder": 130,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119760,7 +119805,7 @@
       "GoodsId": [
         2428
       ],
-      "DisplayOrder": 123,
+      "DisplayOrder": 131,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119780,7 +119825,7 @@
       "GoodsId": [
         2429
       ],
-      "DisplayOrder": 124,
+      "DisplayOrder": 132,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119800,7 +119845,7 @@
       "GoodsId": [
         2430
       ],
-      "DisplayOrder": 125,
+      "DisplayOrder": 133,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119820,7 +119865,7 @@
       "GoodsId": [
         2431
       ],
-      "DisplayOrder": 126,
+      "DisplayOrder": 134,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119840,7 +119885,7 @@
       "GoodsId": [
         2432
       ],
-      "DisplayOrder": 127,
+      "DisplayOrder": 135,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119860,7 +119905,7 @@
       "GoodsId": [
         2433
       ],
-      "DisplayOrder": 128,
+      "DisplayOrder": 136,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119880,7 +119925,7 @@
       "GoodsId": [
         2434
       ],
-      "DisplayOrder": 129,
+      "DisplayOrder": 137,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119900,7 +119945,7 @@
       "GoodsId": [
         2435
       ],
-      "DisplayOrder": 130,
+      "DisplayOrder": 138,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119920,7 +119965,7 @@
       "GoodsId": [
         2436
       ],
-      "DisplayOrder": 131,
+      "DisplayOrder": 139,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119940,7 +119985,7 @@
       "GoodsId": [
         2437
       ],
-      "DisplayOrder": 132,
+      "DisplayOrder": 140,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119960,7 +120005,7 @@
       "GoodsId": [
         2438
       ],
-      "DisplayOrder": 133,
+      "DisplayOrder": 141,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -119980,7 +120025,7 @@
       "GoodsId": [
         2439
       ],
-      "DisplayOrder": 134,
+      "DisplayOrder": 142,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120080,7 +120125,7 @@
       "GoodsId": [
         4200
       ],
-      "DisplayOrder": 55,
+      "DisplayOrder": 59,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120100,7 +120145,7 @@
       "GoodsId": [
         4201
       ],
-      "DisplayOrder": 56,
+      "DisplayOrder": 60,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120120,7 +120165,7 @@
       "GoodsId": [
         4202
       ],
-      "DisplayOrder": 57,
+      "DisplayOrder": 61,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120140,7 +120185,7 @@
       "GoodsId": [
         4203
       ],
-      "DisplayOrder": 58,
+      "DisplayOrder": 62,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120160,7 +120205,7 @@
       "GoodsId": [
         4204
       ],
-      "DisplayOrder": 59,
+      "DisplayOrder": 63,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120180,7 +120225,7 @@
       "GoodsId": [
         4205
       ],
-      "DisplayOrder": 60,
+      "DisplayOrder": 64,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120200,7 +120245,7 @@
       "GoodsId": [
         4206
       ],
-      "DisplayOrder": 61,
+      "DisplayOrder": 65,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120220,7 +120265,7 @@
       "GoodsId": [
         4207
       ],
-      "DisplayOrder": 62,
+      "DisplayOrder": 66,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120240,7 +120285,7 @@
       "GoodsId": [
         4208
       ],
-      "DisplayOrder": 63,
+      "DisplayOrder": 67,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120260,7 +120305,7 @@
       "GoodsId": [
         4209
       ],
-      "DisplayOrder": 64,
+      "DisplayOrder": 68,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120280,7 +120325,7 @@
       "GoodsId": [
         4210
       ],
-      "DisplayOrder": 65,
+      "DisplayOrder": 69,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120300,7 +120345,7 @@
       "GoodsId": [
         4211
       ],
-      "DisplayOrder": 66,
+      "DisplayOrder": 70,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120320,7 +120365,7 @@
       "GoodsId": [
         4212
       ],
-      "DisplayOrder": 67,
+      "DisplayOrder": 71,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120340,7 +120385,7 @@
       "GoodsId": [
         4213
       ],
-      "DisplayOrder": 68,
+      "DisplayOrder": 72,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120360,7 +120405,7 @@
       "GoodsId": [
         4214
       ],
-      "DisplayOrder": 69,
+      "DisplayOrder": 73,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120380,7 +120425,7 @@
       "GoodsId": [
         4215
       ],
-      "DisplayOrder": 70,
+      "DisplayOrder": 74,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120400,7 +120445,7 @@
       "GoodsId": [
         4216
       ],
-      "DisplayOrder": 71,
+      "DisplayOrder": 75,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120420,7 +120465,7 @@
       "GoodsId": [
         4217
       ],
-      "DisplayOrder": 72,
+      "DisplayOrder": 76,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120440,7 +120485,7 @@
       "GoodsId": [
         4218
       ],
-      "DisplayOrder": 73,
+      "DisplayOrder": 77,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120460,7 +120505,7 @@
       "GoodsId": [
         4219
       ],
-      "DisplayOrder": 74,
+      "DisplayOrder": 78,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120480,7 +120525,7 @@
       "GoodsId": [
         4220
       ],
-      "DisplayOrder": 75,
+      "DisplayOrder": 79,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120500,7 +120545,7 @@
       "GoodsId": [
         4221
       ],
-      "DisplayOrder": 76,
+      "DisplayOrder": 80,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120520,7 +120565,7 @@
       "GoodsId": [
         4222
       ],
-      "DisplayOrder": 77,
+      "DisplayOrder": 81,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120540,7 +120585,7 @@
       "GoodsId": [
         4223
       ],
-      "DisplayOrder": 78,
+      "DisplayOrder": 82,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120560,7 +120605,7 @@
       "GoodsId": [
         4224
       ],
-      "DisplayOrder": 79,
+      "DisplayOrder": 83,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120580,7 +120625,7 @@
       "GoodsId": [
         4225
       ],
-      "DisplayOrder": 80,
+      "DisplayOrder": 84,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120600,7 +120645,7 @@
       "GoodsId": [
         4226
       ],
-      "DisplayOrder": 81,
+      "DisplayOrder": 85,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120620,7 +120665,7 @@
       "GoodsId": [
         4227
       ],
-      "DisplayOrder": 82,
+      "DisplayOrder": 86,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120640,7 +120685,7 @@
       "GoodsId": [
         4228
       ],
-      "DisplayOrder": 83,
+      "DisplayOrder": 87,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120660,7 +120705,7 @@
       "GoodsId": [
         4229
       ],
-      "DisplayOrder": 84,
+      "DisplayOrder": 88,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120680,7 +120725,7 @@
       "GoodsId": [
         4230
       ],
-      "DisplayOrder": 85,
+      "DisplayOrder": 89,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120700,7 +120745,7 @@
       "GoodsId": [
         4231
       ],
-      "DisplayOrder": 86,
+      "DisplayOrder": 90,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120720,7 +120765,7 @@
       "GoodsId": [
         4232
       ],
-      "DisplayOrder": 87,
+      "DisplayOrder": 91,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120740,7 +120785,7 @@
       "GoodsId": [
         4233
       ],
-      "DisplayOrder": 88,
+      "DisplayOrder": 92,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120760,7 +120805,7 @@
       "GoodsId": [
         4234
       ],
-      "DisplayOrder": 89,
+      "DisplayOrder": 93,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120780,7 +120825,7 @@
       "GoodsId": [
         4235
       ],
-      "DisplayOrder": 90,
+      "DisplayOrder": 94,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120800,7 +120845,7 @@
       "GoodsId": [
         4236
       ],
-      "DisplayOrder": 91,
+      "DisplayOrder": 95,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120820,7 +120865,7 @@
       "GoodsId": [
         4237
       ],
-      "DisplayOrder": 92,
+      "DisplayOrder": 96,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120840,7 +120885,7 @@
       "GoodsId": [
         4238
       ],
-      "DisplayOrder": 93,
+      "DisplayOrder": 97,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120860,7 +120905,7 @@
       "GoodsId": [
         4239
       ],
-      "DisplayOrder": 94,
+      "DisplayOrder": 98,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120880,7 +120925,7 @@
       "GoodsId": [
         4400
       ],
-      "DisplayOrder": 135,
+      "DisplayOrder": 147,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120900,7 +120945,7 @@
       "GoodsId": [
         4401
       ],
-      "DisplayOrder": 136,
+      "DisplayOrder": 148,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120920,7 +120965,7 @@
       "GoodsId": [
         4402
       ],
-      "DisplayOrder": 137,
+      "DisplayOrder": 149,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120940,7 +120985,7 @@
       "GoodsId": [
         4403
       ],
-      "DisplayOrder": 138,
+      "DisplayOrder": 150,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120960,7 +121005,7 @@
       "GoodsId": [
         4404
       ],
-      "DisplayOrder": 139,
+      "DisplayOrder": 151,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -120980,7 +121025,7 @@
       "GoodsId": [
         4405
       ],
-      "DisplayOrder": 140,
+      "DisplayOrder": 152,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121000,7 +121045,7 @@
       "GoodsId": [
         4406
       ],
-      "DisplayOrder": 141,
+      "DisplayOrder": 153,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121020,7 +121065,7 @@
       "GoodsId": [
         4407
       ],
-      "DisplayOrder": 142,
+      "DisplayOrder": 154,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121040,7 +121085,7 @@
       "GoodsId": [
         4408
       ],
-      "DisplayOrder": 143,
+      "DisplayOrder": 155,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121060,7 +121105,7 @@
       "GoodsId": [
         4409
       ],
-      "DisplayOrder": 144,
+      "DisplayOrder": 156,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121080,7 +121125,7 @@
       "GoodsId": [
         4410
       ],
-      "DisplayOrder": 145,
+      "DisplayOrder": 157,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121100,7 +121145,7 @@
       "GoodsId": [
         4411
       ],
-      "DisplayOrder": 146,
+      "DisplayOrder": 158,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121120,7 +121165,7 @@
       "GoodsId": [
         4412
       ],
-      "DisplayOrder": 147,
+      "DisplayOrder": 159,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121140,7 +121185,7 @@
       "GoodsId": [
         4413
       ],
-      "DisplayOrder": 148,
+      "DisplayOrder": 160,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121160,7 +121205,7 @@
       "GoodsId": [
         4414
       ],
-      "DisplayOrder": 149,
+      "DisplayOrder": 161,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121180,7 +121225,7 @@
       "GoodsId": [
         4415
       ],
-      "DisplayOrder": 150,
+      "DisplayOrder": 162,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121200,7 +121245,7 @@
       "GoodsId": [
         4416
       ],
-      "DisplayOrder": 151,
+      "DisplayOrder": 163,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121220,7 +121265,7 @@
       "GoodsId": [
         4417
       ],
-      "DisplayOrder": 152,
+      "DisplayOrder": 164,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121240,7 +121285,7 @@
       "GoodsId": [
         4418
       ],
-      "DisplayOrder": 153,
+      "DisplayOrder": 165,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121260,7 +121305,7 @@
       "GoodsId": [
         4419
       ],
-      "DisplayOrder": 154,
+      "DisplayOrder": 166,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121280,7 +121325,7 @@
       "GoodsId": [
         4420
       ],
-      "DisplayOrder": 155,
+      "DisplayOrder": 167,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121300,7 +121345,7 @@
       "GoodsId": [
         4421
       ],
-      "DisplayOrder": 156,
+      "DisplayOrder": 168,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121320,7 +121365,7 @@
       "GoodsId": [
         4422
       ],
-      "DisplayOrder": 157,
+      "DisplayOrder": 169,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121340,7 +121385,7 @@
       "GoodsId": [
         4423
       ],
-      "DisplayOrder": 158,
+      "DisplayOrder": 170,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121360,7 +121405,7 @@
       "GoodsId": [
         4424
       ],
-      "DisplayOrder": 159,
+      "DisplayOrder": 171,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121380,7 +121425,7 @@
       "GoodsId": [
         4425
       ],
-      "DisplayOrder": 160,
+      "DisplayOrder": 172,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121400,7 +121445,7 @@
       "GoodsId": [
         4426
       ],
-      "DisplayOrder": 161,
+      "DisplayOrder": 173,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121420,7 +121465,7 @@
       "GoodsId": [
         4427
       ],
-      "DisplayOrder": 162,
+      "DisplayOrder": 174,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121440,7 +121485,7 @@
       "GoodsId": [
         4428
       ],
-      "DisplayOrder": 163,
+      "DisplayOrder": 175,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121460,7 +121505,7 @@
       "GoodsId": [
         4429
       ],
-      "DisplayOrder": 164,
+      "DisplayOrder": 176,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121480,7 +121525,7 @@
       "GoodsId": [
         4430
       ],
-      "DisplayOrder": 165,
+      "DisplayOrder": 177,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121500,7 +121545,7 @@
       "GoodsId": [
         4431
       ],
-      "DisplayOrder": 166,
+      "DisplayOrder": 178,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121520,7 +121565,7 @@
       "GoodsId": [
         4432
       ],
-      "DisplayOrder": 167,
+      "DisplayOrder": 179,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121540,7 +121585,7 @@
       "GoodsId": [
         4433
       ],
-      "DisplayOrder": 168,
+      "DisplayOrder": 180,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121560,7 +121605,7 @@
       "GoodsId": [
         4434
       ],
-      "DisplayOrder": 169,
+      "DisplayOrder": 181,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121580,7 +121625,7 @@
       "GoodsId": [
         4435
       ],
-      "DisplayOrder": 170,
+      "DisplayOrder": 182,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121600,7 +121645,7 @@
       "GoodsId": [
         4436
       ],
-      "DisplayOrder": 171,
+      "DisplayOrder": 183,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121620,7 +121665,7 @@
       "GoodsId": [
         4437
       ],
-      "DisplayOrder": 172,
+      "DisplayOrder": 184,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121640,7 +121685,7 @@
       "GoodsId": [
         4438
       ],
-      "DisplayOrder": 173,
+      "DisplayOrder": 185,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121660,7 +121705,7 @@
       "GoodsId": [
         4439
       ],
-      "DisplayOrder": 174,
+      "DisplayOrder": 186,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -121705,6 +121750,326 @@
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107675,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2240
+      ],
+      "DisplayOrder": 55,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 80,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107676,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2241
+      ],
+      "DisplayOrder": 56,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 60,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107677,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2242
+      ],
+      "DisplayOrder": 57,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 50,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107678,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2243
+      ],
+      "DisplayOrder": 58,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107679,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2440
+      ],
+      "DisplayOrder": 143,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 100,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107680,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2441
+      ],
+      "DisplayOrder": 144,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 80,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107681,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2442
+      ],
+      "DisplayOrder": 145,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 60,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107682,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        2443
+      ],
+      "DisplayOrder": 146,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107683,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4240
+      ],
+      "DisplayOrder": 99,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 24,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107684,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4241
+      ],
+      "DisplayOrder": 100,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107685,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4242
+      ],
+      "DisplayOrder": 101,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 16,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107686,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4243
+      ],
+      "DisplayOrder": 102,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 4,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107687,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4440
+      ],
+      "DisplayOrder": 187,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 32,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107688,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4441
+      ],
+      "DisplayOrder": 188,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 24,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107689,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4442
+      ],
+      "DisplayOrder": 189,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 2107690,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "Raid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        4443
+      ],
+      "DisplayOrder": 190,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -129372,13 +129737,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001315,
-      "LocalizeEtcId": 2132990527,
+      "Id": 5001303,
+      "LocalizeEtcId": 1059601629,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51270
+        51160
       ],
       "DisplayOrder": 5,
       "SalePeriodFrom": "",
@@ -129392,13 +129757,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001316,
-      "LocalizeEtcId": 556996813,
+      "Id": 5001304,
+      "LocalizeEtcId": 2792603792,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51271
+        51161
       ],
       "DisplayOrder": 6,
       "SalePeriodFrom": "",
@@ -129412,13 +129777,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001317,
-      "LocalizeEtcId": 3225872208,
+      "Id": 5001305,
+      "LocalizeEtcId": 2746570331,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51272
+        51162
       ],
       "DisplayOrder": 7,
       "SalePeriodFrom": "",
@@ -129432,13 +129797,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001318,
-      "LocalizeEtcId": 3803220014,
+      "Id": 5001306,
+      "LocalizeEtcId": 481204051,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51280
+        51290
       ],
       "DisplayOrder": 8,
       "SalePeriodFrom": "",
@@ -129452,13 +129817,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001319,
-      "LocalizeEtcId": 3630776315,
+      "Id": 5001307,
+      "LocalizeEtcId": 2995021343,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51281
+        51291
       ],
       "DisplayOrder": 9,
       "SalePeriodFrom": "",
@@ -129472,13 +129837,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001320,
-      "LocalizeEtcId": 763848750,
+      "Id": 5001308,
+      "LocalizeEtcId": 2163708171,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51282
+        51292
       ],
       "DisplayOrder": 10,
       "SalePeriodFrom": "",
@@ -129492,73 +129857,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001321,
-      "LocalizeEtcId": 4282203720,
+      "Id": 5001312,
+      "LocalizeEtcId": 1851017565,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51190
-      ],
-      "DisplayOrder": 11,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 5001322,
-      "LocalizeEtcId": 1767055059,
-      "CategoryType": "SecretStoneGrowth",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        51191
-      ],
-      "DisplayOrder": 12,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 5001323,
-      "LocalizeEtcId": 2751697296,
-      "CategoryType": "SecretStoneGrowth",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        51192
-      ],
-      "DisplayOrder": 13,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 5001324,
-      "LocalizeEtcId": 428637820,
-      "CategoryType": "SecretStoneGrowth",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        51130
+        51110
       ],
       "DisplayOrder": 14,
       "SalePeriodFrom": "",
@@ -129572,13 +129877,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001325,
-      "LocalizeEtcId": 1195979536,
+      "Id": 5001313,
+      "LocalizeEtcId": 2924463254,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51131
+        51111
       ],
       "DisplayOrder": 15,
       "SalePeriodFrom": "",
@@ -129592,13 +129897,13 @@
       "ShopUpdateGroupId": 2
     },
     {
-      "Id": 5001326,
-      "LocalizeEtcId": 759961142,
+      "Id": 5001314,
+      "LocalizeEtcId": 1217397088,
       "CategoryType": "SecretStoneGrowth",
       "IsLegacy": false,
       "UseBigPopup": false,
       "GoodsId": [
-        51132
+        51112
       ],
       "DisplayOrder": 16,
       "SalePeriodFrom": "",
@@ -129625,6 +129930,66 @@
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 100,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 5001328,
+      "LocalizeEtcId": 1790524054,
+      "CategoryType": "SecretStoneGrowth",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        51230
+      ],
+      "DisplayOrder": 11,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 50,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 5001329,
+      "LocalizeEtcId": 1835718573,
+      "CategoryType": "SecretStoneGrowth",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        51231
+      ],
+      "DisplayOrder": 12,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 5001330,
+      "LocalizeEtcId": 1545254610,
+      "CategoryType": "SecretStoneGrowth",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        51232
+      ],
+      "DisplayOrder": 13,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -141680,7 +142045,7 @@
       "GoodsId": [
         80000
       ],
-      "DisplayOrder": 45,
+      "DisplayOrder": 49,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141700,7 +142065,7 @@
       "GoodsId": [
         80001
       ],
-      "DisplayOrder": 46,
+      "DisplayOrder": 50,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141720,7 +142085,7 @@
       "GoodsId": [
         80002
       ],
-      "DisplayOrder": 47,
+      "DisplayOrder": 51,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141740,7 +142105,7 @@
       "GoodsId": [
         80003
       ],
-      "DisplayOrder": 48,
+      "DisplayOrder": 52,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141760,7 +142125,7 @@
       "GoodsId": [
         80004
       ],
-      "DisplayOrder": 49,
+      "DisplayOrder": 53,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141780,7 +142145,7 @@
       "GoodsId": [
         80005
       ],
-      "DisplayOrder": 43,
+      "DisplayOrder": 47,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141800,7 +142165,7 @@
       "GoodsId": [
         80006
       ],
-      "DisplayOrder": 44,
+      "DisplayOrder": 48,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141820,7 +142185,7 @@
       "GoodsId": [
         80016
       ],
-      "DisplayOrder": 50,
+      "DisplayOrder": 54,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141840,7 +142205,7 @@
       "GoodsId": [
         80017
       ],
-      "DisplayOrder": 51,
+      "DisplayOrder": 55,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141860,7 +142225,7 @@
       "GoodsId": [
         80018
       ],
-      "DisplayOrder": 42,
+      "DisplayOrder": 46,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141880,7 +142245,7 @@
       "GoodsId": [
         80019
       ],
-      "DisplayOrder": 40,
+      "DisplayOrder": 44,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141900,7 +142265,7 @@
       "GoodsId": [
         80020
       ],
-      "DisplayOrder": 41,
+      "DisplayOrder": 45,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141920,7 +142285,7 @@
       "GoodsId": [
         80021
       ],
-      "DisplayOrder": 37,
+      "DisplayOrder": 41,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141940,7 +142305,7 @@
       "GoodsId": [
         80022
       ],
-      "DisplayOrder": 34,
+      "DisplayOrder": 38,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141960,7 +142325,7 @@
       "GoodsId": [
         80023
       ],
-      "DisplayOrder": 35,
+      "DisplayOrder": 39,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -141980,7 +142345,7 @@
       "GoodsId": [
         80024
       ],
-      "DisplayOrder": 36,
+      "DisplayOrder": 40,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142000,7 +142365,7 @@
       "GoodsId": [
         80025
       ],
-      "DisplayOrder": 33,
+      "DisplayOrder": 37,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142020,7 +142385,7 @@
       "GoodsId": [
         80007
       ],
-      "DisplayOrder": 52,
+      "DisplayOrder": 56,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142040,7 +142405,7 @@
       "GoodsId": [
         80008
       ],
-      "DisplayOrder": 53,
+      "DisplayOrder": 57,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142060,7 +142425,7 @@
       "GoodsId": [
         80009
       ],
-      "DisplayOrder": 54,
+      "DisplayOrder": 58,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142080,7 +142445,7 @@
       "GoodsId": [
         80010
       ],
-      "DisplayOrder": 55,
+      "DisplayOrder": 59,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142100,7 +142465,7 @@
       "GoodsId": [
         80011
       ],
-      "DisplayOrder": 56,
+      "DisplayOrder": 60,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142120,7 +142485,7 @@
       "GoodsId": [
         80012
       ],
-      "DisplayOrder": 57,
+      "DisplayOrder": 61,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142140,7 +142505,7 @@
       "GoodsId": [
         80013
       ],
-      "DisplayOrder": 58,
+      "DisplayOrder": 62,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142160,7 +142525,7 @@
       "GoodsId": [
         80014
       ],
-      "DisplayOrder": 59,
+      "DisplayOrder": 63,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142180,7 +142545,7 @@
       "GoodsId": [
         80015
       ],
-      "DisplayOrder": 60,
+      "DisplayOrder": 64,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142200,7 +142565,7 @@
       "GoodsId": [
         80026
       ],
-      "DisplayOrder": 38,
+      "DisplayOrder": 42,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142220,7 +142585,7 @@
       "GoodsId": [
         80027
       ],
-      "DisplayOrder": 31,
+      "DisplayOrder": 35,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142240,7 +142605,7 @@
       "GoodsId": [
         80028
       ],
-      "DisplayOrder": 32,
+      "DisplayOrder": 36,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142260,7 +142625,7 @@
       "GoodsId": [
         80030
       ],
-      "DisplayOrder": 30,
+      "DisplayOrder": 34,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142280,7 +142645,7 @@
       "GoodsId": [
         80031
       ],
-      "DisplayOrder": 29,
+      "DisplayOrder": 33,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142300,7 +142665,7 @@
       "GoodsId": [
         80032
       ],
-      "DisplayOrder": 28,
+      "DisplayOrder": 32,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142320,7 +142685,7 @@
       "GoodsId": [
         80029
       ],
-      "DisplayOrder": 39,
+      "DisplayOrder": 43,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142340,7 +142705,7 @@
       "GoodsId": [
         80034
       ],
-      "DisplayOrder": 27,
+      "DisplayOrder": 31,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142360,7 +142725,7 @@
       "GoodsId": [
         80033
       ],
-      "DisplayOrder": 61,
+      "DisplayOrder": 65,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142380,7 +142745,7 @@
       "GoodsId": [
         80038
       ],
-      "DisplayOrder": 24,
+      "DisplayOrder": 28,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142400,7 +142765,7 @@
       "GoodsId": [
         80037
       ],
-      "DisplayOrder": 23,
+      "DisplayOrder": 27,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142420,7 +142785,7 @@
       "GoodsId": [
         80035
       ],
-      "DisplayOrder": 25,
+      "DisplayOrder": 29,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142440,7 +142805,7 @@
       "GoodsId": [
         80036
       ],
-      "DisplayOrder": 26,
+      "DisplayOrder": 30,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142460,7 +142825,7 @@
       "GoodsId": [
         80039
       ],
-      "DisplayOrder": 22,
+      "DisplayOrder": 26,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142480,7 +142845,7 @@
       "GoodsId": [
         80040
       ],
-      "DisplayOrder": 21,
+      "DisplayOrder": 25,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142500,7 +142865,7 @@
       "GoodsId": [
         80041
       ],
-      "DisplayOrder": 20,
+      "DisplayOrder": 24,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142520,7 +142885,7 @@
       "GoodsId": [
         80042
       ],
-      "DisplayOrder": 19,
+      "DisplayOrder": 23,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142540,7 +142905,7 @@
       "GoodsId": [
         80043
       ],
-      "DisplayOrder": 18,
+      "DisplayOrder": 22,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142560,7 +142925,7 @@
       "GoodsId": [
         80044
       ],
-      "DisplayOrder": 16,
+      "DisplayOrder": 20,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142580,7 +142945,7 @@
       "GoodsId": [
         80045
       ],
-      "DisplayOrder": 17,
+      "DisplayOrder": 21,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142600,7 +142965,7 @@
       "GoodsId": [
         80048
       ],
-      "DisplayOrder": 6016,
+      "DisplayOrder": 66,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142620,7 +142985,7 @@
       "GoodsId": [
         80046
       ],
-      "DisplayOrder": 15,
+      "DisplayOrder": 19,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142640,7 +143005,7 @@
       "GoodsId": [
         80047
       ],
-      "DisplayOrder": 14,
+      "DisplayOrder": 18,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142660,7 +143025,7 @@
       "GoodsId": [
         80049
       ],
-      "DisplayOrder": 13,
+      "DisplayOrder": 17,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142680,7 +143045,7 @@
       "GoodsId": [
         80050
       ],
-      "DisplayOrder": 12,
+      "DisplayOrder": 16,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142700,7 +143065,7 @@
       "GoodsId": [
         80051
       ],
-      "DisplayOrder": 11,
+      "DisplayOrder": 15,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142720,7 +143085,7 @@
       "GoodsId": [
         80052
       ],
-      "DisplayOrder": 10,
+      "DisplayOrder": 14,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142740,7 +143105,7 @@
       "GoodsId": [
         80053
       ],
-      "DisplayOrder": 9,
+      "DisplayOrder": 13,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142760,7 +143125,7 @@
       "GoodsId": [
         80057
       ],
-      "DisplayOrder": 8,
+      "DisplayOrder": 12,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142780,7 +143145,7 @@
       "GoodsId": [
         80058
       ],
-      "DisplayOrder": 7,
+      "DisplayOrder": 11,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142800,7 +143165,7 @@
       "GoodsId": [
         80056
       ],
-      "DisplayOrder": 6,
+      "DisplayOrder": 10,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142820,7 +143185,7 @@
       "GoodsId": [
         80059
       ],
-      "DisplayOrder": 5,
+      "DisplayOrder": 9,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142840,7 +143205,7 @@
       "GoodsId": [
         80060
       ],
-      "DisplayOrder": 4,
+      "DisplayOrder": 8,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142860,7 +143225,7 @@
       "GoodsId": [
         80063
       ],
-      "DisplayOrder": 1,
+      "DisplayOrder": 5,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142880,7 +143245,7 @@
       "GoodsId": [
         80062
       ],
-      "DisplayOrder": 2,
+      "DisplayOrder": 6,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -142900,11 +143265,91 @@
       "GoodsId": [
         80061
       ],
-      "DisplayOrder": 3,
+      "DisplayOrder": 7,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 8001062,
+      "LocalizeEtcId": 803823678,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        80065
+      ],
+      "DisplayOrder": 3,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 8001063,
+      "LocalizeEtcId": 1900193082,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        80064
+      ],
+      "DisplayOrder": 4,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 8001064,
+      "LocalizeEtcId": 1364630666,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        80067
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 8001065,
+      "LocalizeEtcId": 2460603891,
+      "CategoryType": "MasterCoin",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        80066
+      ],
+      "DisplayOrder": 2,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -150432,406 +150877,6 @@
       "ShopUpdateGroupId": 0
     },
     {
-      "Id": 9001316,
-      "LocalizeEtcId": 1770235474,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90100
-      ],
-      "DisplayOrder": 17,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 25,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001317,
-      "LocalizeEtcId": 2335488326,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90101
-      ],
-      "DisplayOrder": 18,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001318,
-      "LocalizeEtcId": 1872991591,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90102
-      ],
-      "DisplayOrder": 19,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 8,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001319,
-      "LocalizeEtcId": 2649485585,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90103
-      ],
-      "DisplayOrder": 20,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 5,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001324,
-      "LocalizeEtcId": 813764593,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90016
-      ],
-      "DisplayOrder": 1,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001325,
-      "LocalizeEtcId": 3861705294,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90017
-      ],
-      "DisplayOrder": 2,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 8,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001326,
-      "LocalizeEtcId": 3958214094,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90018
-      ],
-      "DisplayOrder": 3,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001327,
-      "LocalizeEtcId": 1251226267,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90019
-      ],
-      "DisplayOrder": 4,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 2,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001328,
-      "LocalizeEtcId": 614148181,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90004
-      ],
-      "DisplayOrder": 5,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 15,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001329,
-      "LocalizeEtcId": 3735127488,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90005
-      ],
-      "DisplayOrder": 6,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 8,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001330,
-      "LocalizeEtcId": 4168372872,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90006
-      ],
-      "DisplayOrder": 7,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001331,
-      "LocalizeEtcId": 2087583754,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90007
-      ],
-      "DisplayOrder": 8,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 2,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001332,
-      "LocalizeEtcId": 3284152598,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90052
-      ],
-      "DisplayOrder": 9,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001333,
-      "LocalizeEtcId": 3751799311,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90053
-      ],
-      "DisplayOrder": 10,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 10,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001334,
-      "LocalizeEtcId": 934055887,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90054
-      ],
-      "DisplayOrder": 11,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 7,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001335,
-      "LocalizeEtcId": 2594624525,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90055
-      ],
-      "DisplayOrder": 12,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001336,
-      "LocalizeEtcId": 2354822280,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90040
-      ],
-      "DisplayOrder": 13,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001337,
-      "LocalizeEtcId": 2892528174,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90041
-      ],
-      "DisplayOrder": 14,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 10,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001338,
-      "LocalizeEtcId": 3300929466,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90042
-      ],
-      "DisplayOrder": 15,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 7,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
-      "Id": 9001339,
-      "LocalizeEtcId": 2119703451,
-      "CategoryType": "Chaser",
-      "IsLegacy": false,
-      "UseBigPopup": false,
-      "GoodsId": [
-        90043
-      ],
-      "DisplayOrder": 16,
-      "SalePeriodFrom": "",
-      "SalePeriodTo": "",
-      "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
-      "PurchaseCountResetType": "None",
-      "BuyReportEventName": "",
-      "RestrictBuyWhenInventoryFull": false,
-      "DisplayTag": "None",
-      "ShopUpdateGroupId": 2
-    },
-    {
       "Id": 9001340,
       "LocalizeEtcId": 1851017565,
       "CategoryType": "Chaser",
@@ -150901,6 +150946,406 @@
         90079
       ],
       "DisplayOrder": 24,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 5,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001344,
+      "LocalizeEtcId": 2859688538,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90012
+      ],
+      "DisplayOrder": 1,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001345,
+      "LocalizeEtcId": 1069063864,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90013
+      ],
+      "DisplayOrder": 2,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001346,
+      "LocalizeEtcId": 2009434811,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90014
+      ],
+      "DisplayOrder": 3,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 4,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001347,
+      "LocalizeEtcId": 585103263,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90015
+      ],
+      "DisplayOrder": 4,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001348,
+      "LocalizeEtcId": 3590732335,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90032
+      ],
+      "DisplayOrder": 5,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001349,
+      "LocalizeEtcId": 458185844,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90033
+      ],
+      "DisplayOrder": 6,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001350,
+      "LocalizeEtcId": 3134950939,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90034
+      ],
+      "DisplayOrder": 7,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 4,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001351,
+      "LocalizeEtcId": 2842950618,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90035
+      ],
+      "DisplayOrder": 8,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001352,
+      "LocalizeEtcId": 4076988875,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90048
+      ],
+      "DisplayOrder": 9,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001353,
+      "LocalizeEtcId": 1884630595,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90049
+      ],
+      "DisplayOrder": 10,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001354,
+      "LocalizeEtcId": 2620371142,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90050
+      ],
+      "DisplayOrder": 11,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 7,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001355,
+      "LocalizeEtcId": 2648427324,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90051
+      ],
+      "DisplayOrder": 12,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 4,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001356,
+      "LocalizeEtcId": 649414334,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90068
+      ],
+      "DisplayOrder": 13,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001357,
+      "LocalizeEtcId": 1266996003,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90069
+      ],
+      "DisplayOrder": 14,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001358,
+      "LocalizeEtcId": 2114973630,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90070
+      ],
+      "DisplayOrder": 15,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 7,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001359,
+      "LocalizeEtcId": 632320016,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90071
+      ],
+      "DisplayOrder": 16,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 4,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001360,
+      "LocalizeEtcId": 3541905306,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90072
+      ],
+      "DisplayOrder": 17,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001361,
+      "LocalizeEtcId": 2136120808,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90073
+      ],
+      "DisplayOrder": 18,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 15,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001362,
+      "LocalizeEtcId": 788318352,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90074
+      ],
+      "DisplayOrder": 19,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 9001363,
+      "LocalizeEtcId": 2893958235,
+      "CategoryType": "Chaser",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        90075
+      ],
+      "DisplayOrder": 20,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
@@ -155104,7 +155549,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155124,7 +155569,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155140,11 +155585,11 @@
       "GoodsId": [
         5100
       ],
-      "DisplayOrder": 9,
+      "DisplayOrder": 10,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 6,
+      "PurchaseCountLimit": 3,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155160,11 +155605,11 @@
       "GoodsId": [
         5200
       ],
-      "DisplayOrder": 10,
+      "DisplayOrder": 11,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155180,11 +155625,11 @@
       "GoodsId": [
         5201
       ],
-      "DisplayOrder": 11,
+      "DisplayOrder": 12,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155200,11 +155645,11 @@
       "GoodsId": [
         5202
       ],
-      "DisplayOrder": 12,
+      "DisplayOrder": 13,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155220,11 +155665,11 @@
       "GoodsId": [
         5203
       ],
-      "DisplayOrder": 13,
+      "DisplayOrder": 14,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155240,11 +155685,11 @@
       "GoodsId": [
         5204
       ],
-      "DisplayOrder": 14,
+      "DisplayOrder": 15,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155260,11 +155705,11 @@
       "GoodsId": [
         5205
       ],
-      "DisplayOrder": 15,
+      "DisplayOrder": 16,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155280,11 +155725,11 @@
       "GoodsId": [
         5206
       ],
-      "DisplayOrder": 16,
+      "DisplayOrder": 17,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155300,11 +155745,11 @@
       "GoodsId": [
         5207
       ],
-      "DisplayOrder": 17,
+      "DisplayOrder": 18,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155320,11 +155765,11 @@
       "GoodsId": [
         5208
       ],
-      "DisplayOrder": 18,
+      "DisplayOrder": 19,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155340,11 +155785,11 @@
       "GoodsId": [
         5209
       ],
-      "DisplayOrder": 19,
+      "DisplayOrder": 20,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155360,11 +155805,11 @@
       "GoodsId": [
         5210
       ],
-      "DisplayOrder": 20,
+      "DisplayOrder": 21,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155380,11 +155825,11 @@
       "GoodsId": [
         5211
       ],
-      "DisplayOrder": 21,
+      "DisplayOrder": 22,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155400,11 +155845,11 @@
       "GoodsId": [
         5212
       ],
-      "DisplayOrder": 22,
+      "DisplayOrder": 23,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155420,11 +155865,11 @@
       "GoodsId": [
         5213
       ],
-      "DisplayOrder": 23,
+      "DisplayOrder": 24,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155440,11 +155885,11 @@
       "GoodsId": [
         5214
       ],
-      "DisplayOrder": 24,
+      "DisplayOrder": 25,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155460,11 +155905,11 @@
       "GoodsId": [
         5215
       ],
-      "DisplayOrder": 25,
+      "DisplayOrder": 26,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155480,11 +155925,11 @@
       "GoodsId": [
         5216
       ],
-      "DisplayOrder": 26,
+      "DisplayOrder": 27,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155500,11 +155945,11 @@
       "GoodsId": [
         5217
       ],
-      "DisplayOrder": 27,
+      "DisplayOrder": 28,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155520,11 +155965,11 @@
       "GoodsId": [
         5218
       ],
-      "DisplayOrder": 28,
+      "DisplayOrder": 29,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155540,11 +155985,11 @@
       "GoodsId": [
         5219
       ],
-      "DisplayOrder": 29,
+      "DisplayOrder": 30,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155560,11 +156005,11 @@
       "GoodsId": [
         5220
       ],
-      "DisplayOrder": 30,
+      "DisplayOrder": 31,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155580,11 +156025,11 @@
       "GoodsId": [
         5221
       ],
-      "DisplayOrder": 31,
+      "DisplayOrder": 32,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155600,11 +156045,11 @@
       "GoodsId": [
         5222
       ],
-      "DisplayOrder": 32,
+      "DisplayOrder": 33,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155620,11 +156065,11 @@
       "GoodsId": [
         5223
       ],
-      "DisplayOrder": 33,
+      "DisplayOrder": 34,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155640,11 +156085,11 @@
       "GoodsId": [
         5224
       ],
-      "DisplayOrder": 34,
+      "DisplayOrder": 35,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155660,11 +156105,11 @@
       "GoodsId": [
         5225
       ],
-      "DisplayOrder": 35,
+      "DisplayOrder": 36,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155680,11 +156125,11 @@
       "GoodsId": [
         5226
       ],
-      "DisplayOrder": 36,
+      "DisplayOrder": 37,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155700,11 +156145,11 @@
       "GoodsId": [
         5227
       ],
-      "DisplayOrder": 37,
+      "DisplayOrder": 38,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155720,11 +156165,11 @@
       "GoodsId": [
         5228
       ],
-      "DisplayOrder": 38,
+      "DisplayOrder": 39,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155740,11 +156185,11 @@
       "GoodsId": [
         5229
       ],
-      "DisplayOrder": 39,
+      "DisplayOrder": 40,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155760,11 +156205,11 @@
       "GoodsId": [
         5230
       ],
-      "DisplayOrder": 40,
+      "DisplayOrder": 41,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155780,11 +156225,11 @@
       "GoodsId": [
         5231
       ],
-      "DisplayOrder": 41,
+      "DisplayOrder": 42,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155800,11 +156245,11 @@
       "GoodsId": [
         5232
       ],
-      "DisplayOrder": 42,
+      "DisplayOrder": 43,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155820,11 +156265,11 @@
       "GoodsId": [
         5233
       ],
-      "DisplayOrder": 43,
+      "DisplayOrder": 44,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155840,11 +156285,11 @@
       "GoodsId": [
         5234
       ],
-      "DisplayOrder": 44,
+      "DisplayOrder": 45,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155860,11 +156305,11 @@
       "GoodsId": [
         5235
       ],
-      "DisplayOrder": 45,
+      "DisplayOrder": 46,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155880,11 +156325,11 @@
       "GoodsId": [
         5400
       ],
-      "DisplayOrder": 90,
+      "DisplayOrder": 99,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155900,11 +156345,11 @@
       "GoodsId": [
         5401
       ],
-      "DisplayOrder": 91,
+      "DisplayOrder": 100,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155920,11 +156365,11 @@
       "GoodsId": [
         5402
       ],
-      "DisplayOrder": 92,
+      "DisplayOrder": 101,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155940,11 +156385,11 @@
       "GoodsId": [
         5403
       ],
-      "DisplayOrder": 93,
+      "DisplayOrder": 102,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155960,11 +156405,11 @@
       "GoodsId": [
         5404
       ],
-      "DisplayOrder": 94,
+      "DisplayOrder": 103,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -155980,11 +156425,11 @@
       "GoodsId": [
         5405
       ],
-      "DisplayOrder": 95,
+      "DisplayOrder": 104,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156000,11 +156445,11 @@
       "GoodsId": [
         5406
       ],
-      "DisplayOrder": 96,
+      "DisplayOrder": 105,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156020,11 +156465,11 @@
       "GoodsId": [
         5407
       ],
-      "DisplayOrder": 97,
+      "DisplayOrder": 106,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156040,11 +156485,11 @@
       "GoodsId": [
         5408
       ],
-      "DisplayOrder": 98,
+      "DisplayOrder": 107,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156060,11 +156505,11 @@
       "GoodsId": [
         5409
       ],
-      "DisplayOrder": 99,
+      "DisplayOrder": 108,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156080,11 +156525,11 @@
       "GoodsId": [
         5410
       ],
-      "DisplayOrder": 100,
+      "DisplayOrder": 109,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156100,11 +156545,11 @@
       "GoodsId": [
         5411
       ],
-      "DisplayOrder": 101,
+      "DisplayOrder": 110,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156120,11 +156565,11 @@
       "GoodsId": [
         5412
       ],
-      "DisplayOrder": 102,
+      "DisplayOrder": 111,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156140,11 +156585,11 @@
       "GoodsId": [
         5413
       ],
-      "DisplayOrder": 103,
+      "DisplayOrder": 112,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156160,11 +156605,11 @@
       "GoodsId": [
         5414
       ],
-      "DisplayOrder": 104,
+      "DisplayOrder": 113,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156180,11 +156625,11 @@
       "GoodsId": [
         5415
       ],
-      "DisplayOrder": 105,
+      "DisplayOrder": 114,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156200,11 +156645,11 @@
       "GoodsId": [
         5416
       ],
-      "DisplayOrder": 106,
+      "DisplayOrder": 115,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156220,11 +156665,11 @@
       "GoodsId": [
         5417
       ],
-      "DisplayOrder": 107,
+      "DisplayOrder": 116,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156240,11 +156685,11 @@
       "GoodsId": [
         5418
       ],
-      "DisplayOrder": 108,
+      "DisplayOrder": 117,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156260,11 +156705,11 @@
       "GoodsId": [
         5419
       ],
-      "DisplayOrder": 109,
+      "DisplayOrder": 118,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156280,11 +156725,11 @@
       "GoodsId": [
         5420
       ],
-      "DisplayOrder": 110,
+      "DisplayOrder": 119,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156300,11 +156745,11 @@
       "GoodsId": [
         5421
       ],
-      "DisplayOrder": 111,
+      "DisplayOrder": 120,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156320,11 +156765,11 @@
       "GoodsId": [
         5422
       ],
-      "DisplayOrder": 112,
+      "DisplayOrder": 121,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156340,11 +156785,11 @@
       "GoodsId": [
         5423
       ],
-      "DisplayOrder": 113,
+      "DisplayOrder": 122,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156360,11 +156805,11 @@
       "GoodsId": [
         5424
       ],
-      "DisplayOrder": 114,
+      "DisplayOrder": 123,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156380,11 +156825,11 @@
       "GoodsId": [
         5425
       ],
-      "DisplayOrder": 115,
+      "DisplayOrder": 124,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156400,11 +156845,11 @@
       "GoodsId": [
         5426
       ],
-      "DisplayOrder": 116,
+      "DisplayOrder": 125,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156420,11 +156865,11 @@
       "GoodsId": [
         5427
       ],
-      "DisplayOrder": 117,
+      "DisplayOrder": 126,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156440,11 +156885,11 @@
       "GoodsId": [
         5428
       ],
-      "DisplayOrder": 118,
+      "DisplayOrder": 127,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156460,11 +156905,11 @@
       "GoodsId": [
         5429
       ],
-      "DisplayOrder": 119,
+      "DisplayOrder": 128,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156480,11 +156925,11 @@
       "GoodsId": [
         5430
       ],
-      "DisplayOrder": 120,
+      "DisplayOrder": 129,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156500,11 +156945,11 @@
       "GoodsId": [
         5431
       ],
-      "DisplayOrder": 121,
+      "DisplayOrder": 130,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156520,11 +156965,11 @@
       "GoodsId": [
         5432
       ],
-      "DisplayOrder": 122,
+      "DisplayOrder": 131,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156540,11 +156985,11 @@
       "GoodsId": [
         5433
       ],
-      "DisplayOrder": 123,
+      "DisplayOrder": 132,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156560,11 +157005,11 @@
       "GoodsId": [
         5434
       ],
-      "DisplayOrder": 124,
+      "DisplayOrder": 133,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156580,11 +157025,11 @@
       "GoodsId": [
         5435
       ],
-      "DisplayOrder": 125,
+      "DisplayOrder": 134,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156600,11 +157045,11 @@
       "GoodsId": [
         6200
       ],
-      "DisplayOrder": 50,
+      "DisplayOrder": 55,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156620,11 +157065,11 @@
       "GoodsId": [
         6201
       ],
-      "DisplayOrder": 51,
+      "DisplayOrder": 56,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156640,11 +157085,11 @@
       "GoodsId": [
         6202
       ],
-      "DisplayOrder": 52,
+      "DisplayOrder": 57,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156660,11 +157105,11 @@
       "GoodsId": [
         6203
       ],
-      "DisplayOrder": 53,
+      "DisplayOrder": 58,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156680,11 +157125,11 @@
       "GoodsId": [
         6204
       ],
-      "DisplayOrder": 54,
+      "DisplayOrder": 59,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156700,11 +157145,11 @@
       "GoodsId": [
         6205
       ],
-      "DisplayOrder": 55,
+      "DisplayOrder": 60,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156720,11 +157165,11 @@
       "GoodsId": [
         6206
       ],
-      "DisplayOrder": 56,
+      "DisplayOrder": 61,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156740,11 +157185,11 @@
       "GoodsId": [
         6207
       ],
-      "DisplayOrder": 57,
+      "DisplayOrder": 62,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156760,11 +157205,11 @@
       "GoodsId": [
         6208
       ],
-      "DisplayOrder": 58,
+      "DisplayOrder": 63,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156780,11 +157225,11 @@
       "GoodsId": [
         6209
       ],
-      "DisplayOrder": 59,
+      "DisplayOrder": 64,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156800,11 +157245,11 @@
       "GoodsId": [
         6210
       ],
-      "DisplayOrder": 60,
+      "DisplayOrder": 65,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156820,11 +157265,11 @@
       "GoodsId": [
         6211
       ],
-      "DisplayOrder": 61,
+      "DisplayOrder": 66,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156840,11 +157285,11 @@
       "GoodsId": [
         6212
       ],
-      "DisplayOrder": 62,
+      "DisplayOrder": 67,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156860,11 +157305,11 @@
       "GoodsId": [
         6213
       ],
-      "DisplayOrder": 63,
+      "DisplayOrder": 68,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156880,11 +157325,11 @@
       "GoodsId": [
         6214
       ],
-      "DisplayOrder": 64,
+      "DisplayOrder": 69,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156900,11 +157345,11 @@
       "GoodsId": [
         6215
       ],
-      "DisplayOrder": 65,
+      "DisplayOrder": 70,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156920,11 +157365,11 @@
       "GoodsId": [
         6216
       ],
-      "DisplayOrder": 66,
+      "DisplayOrder": 71,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156940,11 +157385,11 @@
       "GoodsId": [
         6217
       ],
-      "DisplayOrder": 67,
+      "DisplayOrder": 72,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156960,11 +157405,11 @@
       "GoodsId": [
         6218
       ],
-      "DisplayOrder": 68,
+      "DisplayOrder": 73,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -156980,11 +157425,11 @@
       "GoodsId": [
         6219
       ],
-      "DisplayOrder": 69,
+      "DisplayOrder": 74,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157000,11 +157445,11 @@
       "GoodsId": [
         6220
       ],
-      "DisplayOrder": 70,
+      "DisplayOrder": 75,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157020,11 +157465,11 @@
       "GoodsId": [
         6221
       ],
-      "DisplayOrder": 71,
+      "DisplayOrder": 76,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157040,11 +157485,11 @@
       "GoodsId": [
         6222
       ],
-      "DisplayOrder": 72,
+      "DisplayOrder": 77,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157060,11 +157505,11 @@
       "GoodsId": [
         6223
       ],
-      "DisplayOrder": 73,
+      "DisplayOrder": 78,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157080,11 +157525,11 @@
       "GoodsId": [
         6224
       ],
-      "DisplayOrder": 74,
+      "DisplayOrder": 79,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157100,11 +157545,11 @@
       "GoodsId": [
         6225
       ],
-      "DisplayOrder": 75,
+      "DisplayOrder": 80,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157120,11 +157565,11 @@
       "GoodsId": [
         6226
       ],
-      "DisplayOrder": 76,
+      "DisplayOrder": 81,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157140,11 +157585,11 @@
       "GoodsId": [
         6227
       ],
-      "DisplayOrder": 77,
+      "DisplayOrder": 82,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157160,11 +157605,11 @@
       "GoodsId": [
         6228
       ],
-      "DisplayOrder": 78,
+      "DisplayOrder": 83,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157180,11 +157625,11 @@
       "GoodsId": [
         6229
       ],
-      "DisplayOrder": 79,
+      "DisplayOrder": 84,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157200,11 +157645,11 @@
       "GoodsId": [
         6230
       ],
-      "DisplayOrder": 80,
+      "DisplayOrder": 85,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157220,11 +157665,11 @@
       "GoodsId": [
         6231
       ],
-      "DisplayOrder": 81,
+      "DisplayOrder": 86,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157240,11 +157685,11 @@
       "GoodsId": [
         6232
       ],
-      "DisplayOrder": 82,
+      "DisplayOrder": 87,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157260,11 +157705,11 @@
       "GoodsId": [
         6233
       ],
-      "DisplayOrder": 83,
+      "DisplayOrder": 88,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157280,11 +157725,11 @@
       "GoodsId": [
         6234
       ],
-      "DisplayOrder": 84,
+      "DisplayOrder": 89,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157300,11 +157745,11 @@
       "GoodsId": [
         6235
       ],
-      "DisplayOrder": 85,
+      "DisplayOrder": 90,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157320,11 +157765,11 @@
       "GoodsId": [
         6400
       ],
-      "DisplayOrder": 130,
+      "DisplayOrder": 143,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157340,11 +157785,11 @@
       "GoodsId": [
         6401
       ],
-      "DisplayOrder": 131,
+      "DisplayOrder": 144,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157360,11 +157805,11 @@
       "GoodsId": [
         6402
       ],
-      "DisplayOrder": 132,
+      "DisplayOrder": 145,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157380,11 +157825,11 @@
       "GoodsId": [
         6403
       ],
-      "DisplayOrder": 133,
+      "DisplayOrder": 146,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157400,11 +157845,11 @@
       "GoodsId": [
         6404
       ],
-      "DisplayOrder": 134,
+      "DisplayOrder": 147,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157420,11 +157865,11 @@
       "GoodsId": [
         6405
       ],
-      "DisplayOrder": 135,
+      "DisplayOrder": 148,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157440,11 +157885,11 @@
       "GoodsId": [
         6406
       ],
-      "DisplayOrder": 136,
+      "DisplayOrder": 149,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157460,11 +157905,11 @@
       "GoodsId": [
         6407
       ],
-      "DisplayOrder": 137,
+      "DisplayOrder": 150,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157480,11 +157925,11 @@
       "GoodsId": [
         6408
       ],
-      "DisplayOrder": 138,
+      "DisplayOrder": 151,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157500,11 +157945,11 @@
       "GoodsId": [
         6409
       ],
-      "DisplayOrder": 139,
+      "DisplayOrder": 152,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157520,11 +157965,11 @@
       "GoodsId": [
         6410
       ],
-      "DisplayOrder": 140,
+      "DisplayOrder": 153,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157540,11 +157985,11 @@
       "GoodsId": [
         6411
       ],
-      "DisplayOrder": 141,
+      "DisplayOrder": 154,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157560,11 +158005,11 @@
       "GoodsId": [
         6412
       ],
-      "DisplayOrder": 142,
+      "DisplayOrder": 155,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157580,11 +158025,11 @@
       "GoodsId": [
         6413
       ],
-      "DisplayOrder": 143,
+      "DisplayOrder": 156,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157600,11 +158045,11 @@
       "GoodsId": [
         6414
       ],
-      "DisplayOrder": 144,
+      "DisplayOrder": 157,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157620,11 +158065,11 @@
       "GoodsId": [
         6415
       ],
-      "DisplayOrder": 145,
+      "DisplayOrder": 158,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157640,11 +158085,11 @@
       "GoodsId": [
         6416
       ],
-      "DisplayOrder": 146,
+      "DisplayOrder": 159,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157660,11 +158105,11 @@
       "GoodsId": [
         6417
       ],
-      "DisplayOrder": 147,
+      "DisplayOrder": 160,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157680,11 +158125,11 @@
       "GoodsId": [
         6418
       ],
-      "DisplayOrder": 148,
+      "DisplayOrder": 161,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157700,11 +158145,11 @@
       "GoodsId": [
         6419
       ],
-      "DisplayOrder": 149,
+      "DisplayOrder": 162,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157720,11 +158165,11 @@
       "GoodsId": [
         6420
       ],
-      "DisplayOrder": 150,
+      "DisplayOrder": 163,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157740,11 +158185,11 @@
       "GoodsId": [
         6421
       ],
-      "DisplayOrder": 151,
+      "DisplayOrder": 164,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157760,11 +158205,11 @@
       "GoodsId": [
         6422
       ],
-      "DisplayOrder": 152,
+      "DisplayOrder": 165,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157780,11 +158225,11 @@
       "GoodsId": [
         6423
       ],
-      "DisplayOrder": 153,
+      "DisplayOrder": 166,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157800,11 +158245,11 @@
       "GoodsId": [
         6424
       ],
-      "DisplayOrder": 154,
+      "DisplayOrder": 167,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157820,11 +158265,11 @@
       "GoodsId": [
         6425
       ],
-      "DisplayOrder": 155,
+      "DisplayOrder": 168,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157840,11 +158285,11 @@
       "GoodsId": [
         6426
       ],
-      "DisplayOrder": 156,
+      "DisplayOrder": 169,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157860,11 +158305,11 @@
       "GoodsId": [
         6427
       ],
-      "DisplayOrder": 157,
+      "DisplayOrder": 170,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157880,11 +158325,11 @@
       "GoodsId": [
         6428
       ],
-      "DisplayOrder": 158,
+      "DisplayOrder": 171,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157900,11 +158345,11 @@
       "GoodsId": [
         6429
       ],
-      "DisplayOrder": 159,
+      "DisplayOrder": 172,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157920,11 +158365,11 @@
       "GoodsId": [
         6430
       ],
-      "DisplayOrder": 160,
+      "DisplayOrder": 173,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157940,11 +158385,11 @@
       "GoodsId": [
         6431
       ],
-      "DisplayOrder": 161,
+      "DisplayOrder": 174,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157960,11 +158405,11 @@
       "GoodsId": [
         6432
       ],
-      "DisplayOrder": 162,
+      "DisplayOrder": 175,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -157980,11 +158425,11 @@
       "GoodsId": [
         6433
       ],
-      "DisplayOrder": 163,
+      "DisplayOrder": 176,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158000,11 +158445,11 @@
       "GoodsId": [
         6434
       ],
-      "DisplayOrder": 164,
+      "DisplayOrder": 177,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158020,11 +158465,11 @@
       "GoodsId": [
         6435
       ],
-      "DisplayOrder": 165,
+      "DisplayOrder": 178,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158044,7 +158489,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158064,7 +158509,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158084,7 +158529,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158104,7 +158549,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158124,7 +158569,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158144,7 +158589,7 @@
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158160,11 +158605,11 @@
       "GoodsId": [
         5236
       ],
-      "DisplayOrder": 46,
+      "DisplayOrder": 47,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158180,11 +158625,11 @@
       "GoodsId": [
         5237
       ],
-      "DisplayOrder": 47,
+      "DisplayOrder": 48,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158200,11 +158645,11 @@
       "GoodsId": [
         5238
       ],
-      "DisplayOrder": 48,
+      "DisplayOrder": 49,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 50,
+      "PurchaseCountLimit": 25,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158220,11 +158665,11 @@
       "GoodsId": [
         5239
       ],
-      "DisplayOrder": 49,
+      "DisplayOrder": 50,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 12,
+      "PurchaseCountLimit": 6,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158240,11 +158685,11 @@
       "GoodsId": [
         5437
       ],
-      "DisplayOrder": 126,
+      "DisplayOrder": 135,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 100,
+      "PurchaseCountLimit": 50,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158260,11 +158705,11 @@
       "GoodsId": [
         5438
       ],
-      "DisplayOrder": 127,
+      "DisplayOrder": 136,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 80,
+      "PurchaseCountLimit": 40,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158280,11 +158725,11 @@
       "GoodsId": [
         5439
       ],
-      "DisplayOrder": 128,
+      "DisplayOrder": 137,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 60,
+      "PurchaseCountLimit": 30,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158300,11 +158745,11 @@
       "GoodsId": [
         5440
       ],
-      "DisplayOrder": 129,
+      "DisplayOrder": 138,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 40,
+      "PurchaseCountLimit": 20,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158320,11 +158765,11 @@
       "GoodsId": [
         6236
       ],
-      "DisplayOrder": 86,
+      "DisplayOrder": 91,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158340,11 +158785,11 @@
       "GoodsId": [
         6237
       ],
-      "DisplayOrder": 87,
+      "DisplayOrder": 92,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158360,11 +158805,11 @@
       "GoodsId": [
         6238
       ],
-      "DisplayOrder": 88,
+      "DisplayOrder": 93,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 16,
+      "PurchaseCountLimit": 8,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158380,11 +158825,11 @@
       "GoodsId": [
         6239
       ],
-      "DisplayOrder": 89,
+      "DisplayOrder": 94,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 4,
+      "PurchaseCountLimit": 2,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158400,11 +158845,11 @@
       "GoodsId": [
         6437
       ],
-      "DisplayOrder": 166,
+      "DisplayOrder": 179,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 32,
+      "PurchaseCountLimit": 16,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158420,11 +158865,11 @@
       "GoodsId": [
         6438
       ],
-      "DisplayOrder": 167,
+      "DisplayOrder": 180,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 24,
+      "PurchaseCountLimit": 12,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158440,11 +158885,11 @@
       "GoodsId": [
         6439
       ],
-      "DisplayOrder": 168,
+      "DisplayOrder": 181,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
-      "PurchaseCountLimit": 20,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
@@ -158460,11 +158905,351 @@
       "GoodsId": [
         6440
       ],
-      "DisplayOrder": 169,
+      "DisplayOrder": 182,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100171,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5240
+      ],
+      "DisplayOrder": 51,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100172,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5241
+      ],
+      "DisplayOrder": 52,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100173,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5242
+      ],
+      "DisplayOrder": 53,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 25,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100174,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5243
+      ],
+      "DisplayOrder": 54,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100175,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5441
+      ],
+      "DisplayOrder": 139,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 50,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100176,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5442
+      ],
+      "DisplayOrder": 140,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 40,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100177,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5443
+      ],
+      "DisplayOrder": 141,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 30,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100178,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        5444
+      ],
+      "DisplayOrder": 142,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 20,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100179,
+      "LocalizeEtcId": 2853101100,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6240
+      ],
+      "DisplayOrder": 95,
       "SalePeriodFrom": "",
       "SalePeriodTo": "",
       "PurchaseCooltimeMin": 0,
       "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100180,
+      "LocalizeEtcId": 1042489897,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6241
+      ],
+      "DisplayOrder": 96,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100181,
+      "LocalizeEtcId": 145053104,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6242
+      ],
+      "DisplayOrder": 97,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 8,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100182,
+      "LocalizeEtcId": 735383478,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6243
+      ],
+      "DisplayOrder": 98,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 2,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100183,
+      "LocalizeEtcId": 641889282,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6441
+      ],
+      "DisplayOrder": 183,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 16,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100184,
+      "LocalizeEtcId": 2469556226,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6442
+      ],
+      "DisplayOrder": 184,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 12,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100185,
+      "LocalizeEtcId": 81940370,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6443
+      ],
+      "DisplayOrder": 185,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100186,
+      "LocalizeEtcId": 2464762332,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6444
+      ],
+      "DisplayOrder": 186,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 6,
+      "PurchaseCountResetType": "None",
+      "BuyReportEventName": "",
+      "RestrictBuyWhenInventoryFull": false,
+      "DisplayTag": "None",
+      "ShopUpdateGroupId": 2
+    },
+    {
+      "Id": 21100187,
+      "LocalizeEtcId": 772684213,
+      "CategoryType": "EliminateRaid",
+      "IsLegacy": false,
+      "UseBigPopup": false,
+      "GoodsId": [
+        6013
+      ],
+      "DisplayOrder": 9,
+      "SalePeriodFrom": "",
+      "SalePeriodTo": "",
+      "PurchaseCooltimeMin": 0,
+      "PurchaseCountLimit": 10,
       "PurchaseCountResetType": "None",
       "BuyReportEventName": "",
       "RestrictBuyWhenInventoryFull": false,
